@@ -7,7 +7,7 @@
     "title": "Covid19Kerala.info-Data: A collective open dataset of COVID-19 outbreak in the south Indian state of Kerala",
     "description": "Covid19Kerala.info-Data is a consolidated multi-source open dataset of metadata from the COVID-19 outbreak in the Indian state of Kerala. It is created and maintained by volunteers of \u2018Collective for Open Data Distribution-Keralam\u2019 (CODD-K), a nonprofit consortium of individuals formed for the distribution and longevity of open-datasets. Covid19Kerala.info-Data covers a set of correlated temporal and spatial metadata of SARS-CoV-2 infections and prevention measures in Kerala. Static releases of this dataset snapshots are manually produced from a live database maintained as a set of publicly accessible Google sheets. This dataset is made available under the Open Data Commons Attribution License v1.0 (ODC-BY 1.0).",
     "homepage": "https://covid19kerala.info/",
-    "image": "",
+    "image": "https://codd-k.github.io/covid19kerala.info-data/images/codd-k_logo.png",
     "temporal": {
         "name": "COVID-19 Outbreak Kerala",
         "start": "2020-01-30",
