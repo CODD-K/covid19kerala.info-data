@@ -1,0 +1,133 @@
+{
+    "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+    },
+    "encoding": "utf-8",
+    "format": "csv",
+    "name": "sum_by_day",
+    "title": "Sum by Day",
+    "description": "sum_by_day sheet records the values of variables corresponding to each day.",
+    "path": "2020-05-07.csv",
+    "hash": "6ff2c7bc8431dd6b72144809eb38e789",
+    "profile": "tabular-data-resource",
+    "schema": {
+        "fields": [
+            {
+                "name": "date",
+                "title": "Date",
+                "description": "Date of the summary data",
+                "datatype": "date",
+                "constraints": {
+                    "required": true,
+                    "unique": true
+                }
+            },
+            {
+                "name": "confirmed",
+                "title": "Confirmed",
+                "description": "Total number of confirmed cases till last_updated_on (Cumulative)",
+                "datatype": "integer",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "recovered",
+                "title": "Recovered",
+                "description": "Total number of recovered cases till last_updated_on (Cumulative)",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "deceased",
+                "title": "Deceased",
+                "description": "Total number ofdeceased cases till last_updated_on (Cumulative)",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "critical",
+                "title": "Critical",
+                "description": "Current number of critical cases till last_updated_on",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "active",
+                "title": "Active",
+                "description": "Current number of active cases till last_updated_on",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "tested",
+                "title": "Tested",
+                "description": "Total number of samples tested till last_updated_on (Cumulative)",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "observation",
+                "title": "Observation",
+                "description": "Current number of people under observation till last_updated_on",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "home_observation",
+                "title": "Home Observation",
+                "description": "Current number of people under home observation till last_updated_on",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "hospitalised",
+                "title": "Hospitalised",
+                "description": "Current number of people hospitalised till last_updated_on",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "status",
+                "title": "Status",
+                "description": "Status of the daily record",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            }
+        ]
+    }
+}
