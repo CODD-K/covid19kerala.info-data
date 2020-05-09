@@ -23,7 +23,9 @@ CODD-K expects all administrators, managers, and users of its datasets to manage
 This dataset is made available by the CODD-K consortium under ODC-BY 1.0 license. The Open Data Commons Attribution License (ODC-By) v1.0 ensures that users of this dataset are free to copy, distribute and use the dataset to produce works and even to modify, transform and build upon the database, as long as they attribute the public use of the database or works produced from the same, as mentioned in the citation below. 
 
 ```
-Covid19Kerala.info. 2020. Version X.Y.Z. Retrieved from Covid19Kerala.info. Accessed YYYY-MM-DD. https://covid19Kerala.info
+Covid19Kerala.info. 2020. Version X.Y.Z.   
+Retrieved from Covid19Kerala.info.   
+Accessed YYYY-MM-DD. https://covid19Kerala.info. 
 
 In text: (Covid19Kerala.info data, 2020)
 ```
