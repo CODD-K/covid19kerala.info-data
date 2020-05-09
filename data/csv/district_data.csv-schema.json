@@ -1,0 +1,93 @@
+{
+    "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+    },
+    "encoding": "utf-8",
+    "format": "csv",
+    "name": "district_data",
+    "title": "District Data",
+    "description": "district_data provides the district wise split of collected information.",
+    "path": "2020-05-07.csv",
+    "hash": "36993cb771c6a8aca3a7bdab15ee212c",
+    "profile": "tabular-data-resource",
+    "schema": {
+        "fields": [
+            {
+                "name": "district",
+                "title": "District",
+                "description": "Name of district in English",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": true
+                }
+            },
+            {
+                "name": "district_malayalam",
+                "title": "District Label (Malayalam)",
+                "description": "Name of district in Malayalam",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "cases",
+                "title": "Cases",
+                "description": "Number of cases in a district.",
+                "datatype": "integer",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "recovered",
+                "title": "Recovered",
+                "description": "Number of recovered cases in a district.",
+                "datatype": "integer",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "deaths",
+                "title": "Deaths",
+                "description": "Number of deaths in a district.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "zone",
+                "title": "Zone",
+                "description": "Whether the zone belongs to red,orange or green.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "zone_updated_on",
+                "title": "Zone Updated On",
+                "description": "Date on which zone updated.",
+                "datatype": "date",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            }
+        ]
+    }
+}
