@@ -1,0 +1,243 @@
+{
+    "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+    },
+    "encoding": "utf-8",
+    "format": "csv",
+    "name": "patient_data",
+    "title": "Patient Data",
+    "description": "patient_data contains the collected information about each patient.",
+    "path": "2020-05-07.csv",
+    "hash": "0924f603bcebe3fdefcf35bdc5a3e6d8",
+    "profile": "tabular-data-resource",
+    "schema": {
+        "fields": [
+            {
+                "name": "patient_number",
+                "title": "Patient Number",
+                "description": "Unique reference number of the patient within the dataset",
+                "datatype": "integer",
+                "constraints": {
+                    "required": true,
+                    "unique": true
+                }
+            },
+            {
+                "name": "date_announced",
+                "title": "Date Announced",
+                "description": "The date which DHS announced this patient is COVID-19 positive.",
+                "datatype": "date",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "date_added",
+                "title": "Date Added",
+                "description": "The date which this patient is added to CODD-K data base.",
+                "datatype": "date",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "age_bracket",
+                "title": "Age Bracket",
+                "description": "Age of the patient.",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "gender",
+                "title": "Gender",
+                "description": "Gender of the patient",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "residence_city_or_district",
+                "title": "Residence City or District",
+                "description": "The residence city or district of the patient.",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "detected_city",
+                "title": "Detected City",
+                "description": "The city in which corresponding patient found COVID-19 positive.",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "detected_district",
+                "title": "Detected District",
+                "description": "The district in which corresponding patient found COVID-19 positive.",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "status",
+                "title": "Status",
+                "description": "The current status of the patiend. Five possibilities - Hospitalized,Discharged,Recovered,Deceased,Unspecified",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "transmission_type",
+                "title": "Transmission Type",
+                "description": "Type of transmission",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "notes",
+                "title": "Notes",
+                "description": "Notes about the patient.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "related_patients",
+                "title": "Related Patients",
+                "description": "Patients who got infected from this patient.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "known_cluster",
+                "title": "Known Cluster",
+                "description": "The cluster in which patient belongs to.",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "dhs_patient_number",
+                "title": "DHS Patient Number",
+                "description": "For some patients DHS alloted a unique number.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "origin_state",
+                "title": "Origin State",
+                "description": "The state in which patient got infected.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "origin_country",
+                "title": "Origin Country",
+                "description": "The country in which patient got infected.",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "district_patient_number",
+                "title": "District Patient Number",
+                "description": "Unique number assigned to this patient by the district authorities",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "city_patient_number",
+                "title": "City Patient Number",
+                "description": "Unique number assigned to this patient by city authorities",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "released",
+                "title": "Released Date",
+                "description": "The date on which patient got released.",
+                "datatype": "date",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "recovery_time",
+                "title": "Recovery Time",
+                "description": "Number of days between date_announced and released..",
+                "datatype": "integer",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "deceased",
+                "title": "Deceased Date",
+                "description": "The date on which patient got deceased.",
+                "datatype": "date",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "reference",
+                "title": "References",
+                "description": "References to the collected data.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            }
+        ]
+    }
+}
