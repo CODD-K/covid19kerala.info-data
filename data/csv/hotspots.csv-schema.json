@@ -1,0 +1,173 @@
+{
+    "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+    },
+    "encoding": "utf-8",
+    "format": "csv",
+    "name": "hotspots",
+    "title": "Hotspots",
+    "description": "hotspots dataset provides the details of places declared as hotspots by DHS Kerala.",
+    "path": "2020-05-07.csv",
+    "hash": "b0276df5d853445eaca3b7ecbf19a79c",
+    "profile": "tabular-data-resource",
+    "schema": {
+        "fields": [
+            {
+                "name": "hotspot_number",
+                "title": "Hotspot Number",
+                "description": "Unique identifire number of hotspot in this dataset",
+                "datatype": "integer",
+                "constraints": {
+                    "required": true,
+                    "unique": true
+                }
+            },
+            {
+                "name": "lsg_code",
+                "title": "LSG Code",
+                "description": "Corresponding LSG code",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "label",
+                "title": "Label",
+                "description": "Corresponding LSG name in English",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "label_malayalam",
+                "title": "Label (Malayalam)",
+                "description": "Corresponding LSG name in Malayalam",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "locality",
+                "title": "Locality",
+                "description": "Locality of the LSG",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "district",
+                "title": "District",
+                "description": "The district in which LSG belongs to.",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "type",
+                "title": "Type",
+                "description": "LSG type",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "status",
+                "title": "Status",
+                "description": "Status of the hotspot",
+                "datatype": "string",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "listed_on",
+                "title": "Listed On",
+                "description": "Date in which LSG is entered to the hotspot list.",
+                "datatype": "date",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "unlisted_on",
+                "title": "Unlisted On",
+                "description": "Date on which LSG is removed from the hotspot list.",
+                "datatype": "date",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "last_updated_on",
+                "title": "Last Updated On",
+                "description": "Last updated the hotspot status",
+                "datatype": "date",
+                "constraints": {
+                    "required": true,
+                    "unique": false
+                }
+            },
+            {
+                "name": "notes",
+                "title": "Notes",
+                "description": "Additional Information on the hotspot",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "reference",
+                "title": "Source",
+                "description": "Source of informtion.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "latitude",
+                "title": "Latitude",
+                "description": "Lattitude value of corresponding hotspot.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            },
+            {
+                "name": "longitude",
+                "title": "Longitude",
+                "description": "Longitude value of corresponding hotspot.",
+                "datatype": "string",
+                "constraints": {
+                    "required": false,
+                    "unique": false
+                }
+            }
+        ]
+    }
+}
