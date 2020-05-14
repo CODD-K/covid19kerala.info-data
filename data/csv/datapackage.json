@@ -3,7 +3,7 @@
     "profile": "tabular-data-package",
     "id": "https://doi.org/10.5281/zenodo.3818096",
     "name": "open_dataset_of_covid_19_outbreak_in_kerala",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "title": "Covid19Kerala.info-Data: A collective open dataset of COVID-19 outbreak in the south Indian state of Kerala",
     "description": "Covid19Kerala.info-Data is a consolidated multi-source open dataset of metadata from the COVID-19 outbreak in the Indian state of Kerala. It is created and maintained by volunteers of \u2018Collective for Open Data Distribution-Keralam\u2019 (CODD-K), a nonprofit consortium of individuals formed for the distribution and longevity of open-datasets. Covid19Kerala.info-Data covers a set of correlated temporal and spatial metadata of SARS-CoV-2 infections and prevention measures in Kerala. Static releases of this dataset snapshots are manually produced from a live database maintained as a set of publicly accessible Google sheets. This dataset is made available under the Open Data Commons Attribution License v1.0 (ODC-BY 1.0).",
     "homepage": "https://covid19kerala.info/",
@@ -11,7 +11,7 @@
     "temporal": {
         "name": "COVID-19 Outbreak Kerala",
         "start": "2020-01-30",
-        "end": "2020-05-07"
+        "end": "2020-05-08"
     },
     "contributors": [
         {
@@ -109,7 +109,7 @@
         "Crowdsourcing",
         "India"
     ],
-    "created": "2020-05-14T16:02:32",
+    "created": "2020-05-14T17:15:54",
     "licenses": [
         {
             "name": "ODC-BY-1.0",
@@ -144,7 +144,7 @@
             "title": "Patient Data",
             "description": "patient_data contains the collected information about each patient.",
             "path": "patient_data.csv",
-            "hash": "0924f603bcebe3fdefcf35bdc5a3e6d8",
+            "hash": "19840b97620df2f8d87aeda84346e06d",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -387,7 +387,7 @@
             "title": "District Data",
             "description": "district_data provides the district wise split of collected information.",
             "path": "district_data.csv",
-            "hash": "36993cb771c6a8aca3a7bdab15ee212c",
+            "hash": "fc31060144ef54a2e664e545b9449c9a",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -427,7 +427,7 @@
                         "description": "Number of recovered cases in a district.",
                         "datatype": "integer",
                         "constraints": {
-                            "required": true,
+                            "required": false,
                             "unique": false
                         }
                     },
@@ -480,7 +480,7 @@
             "title": "Sum by Day",
             "description": "sum_by_day sheet records the values of variables corresponding to each day.",
             "path": "sum_by_day.csv",
-            "hash": "6ff2c7bc8431dd6b72144809eb38e789",
+            "hash": "14bbb386260dc0438246f0c132011072",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -613,7 +613,7 @@
             "title": "Hotspots",
             "description": "hotspots dataset provides the details of places declared as hotspots by DHS Kerala.",
             "path": "hotspots.csv",
-            "hash": "b0276df5d853445eaca3b7ecbf19a79c",
+            "hash": "38cebb4ab8385037c929d1b68b704c43",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -764,6 +764,79 @@
                         "datatype": "string",
                         "constraints": {
                             "required": false,
+                            "unique": false
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "dialect": {
+                "caseSensitiveHeader": false,
+                "delimiter": ",",
+                "doubleQuote": true,
+                "header": true,
+                "lineTerminator": "\r\n",
+                "quoteChar": "\"",
+                "skipInitialSpace": false
+            },
+            "encoding": "utf-8",
+            "format": "csv",
+            "name": "age",
+            "title": "Age",
+            "description": "Age dataset provides age group details of postive cases reported.",
+            "path": "age.csv",
+            "hash": "8fb0ff000e51b727023da47f45c6a69d",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "age_group",
+                        "title": "Age Group",
+                        "description": "Identifier for different age groups",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": true,
+                            "unique": true
+                        }
+                    },
+                    {
+                        "name": "female",
+                        "title": "Female",
+                        "description": "Total number of  positive case females in each age group",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "male",
+                        "title": "Male",
+                        "description": "Total number of  positive case males in each age group",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "unspecified",
+                        "title": "Unspecified",
+                        "description": "Total number of positive case gender unpecified patients in each age group",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "total",
+                        "title": "Total",
+                        "description": "Total number of positive cases in each age group",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": true,
                             "unique": false
                         }
                     }

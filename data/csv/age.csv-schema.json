@@ -140,161 +140,61 @@
             },
             "encoding": "utf-8",
             "format": "csv",
-            "name": "hotspots",
-            "title": "Hotspots",
-            "description": "hotspots dataset provides the details of places declared as hotspots by DHS Kerala.",
-            "path": "hotspots.csv",
-            "hash": "38cebb4ab8385037c929d1b68b704c43",
+            "name": "age",
+            "title": "Age",
+            "description": "Age dataset provides age group details of postive cases reported.",
+            "path": "age.csv",
+            "hash": "8fb0ff000e51b727023da47f45c6a69d",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
                     {
-                        "name": "hotspot_number",
-                        "title": "Hotspot Number",
-                        "description": "Unique identifire number of hotspot in this dataset",
-                        "datatype": "integer",
+                        "name": "age_group",
+                        "title": "Age Group",
+                        "description": "Identifier for different age groups",
+                        "datatype": "string",
                         "constraints": {
                             "required": true,
                             "unique": true
                         }
                     },
                     {
-                        "name": "lsg_code",
-                        "title": "LSG Code",
-                        "description": "Corresponding LSG code",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "label",
-                        "title": "Label",
-                        "description": "Corresponding LSG name in English",
-                        "datatype": "string",
+                        "name": "female",
+                        "title": "Female",
+                        "description": "Total number of  positive case females in each age group",
+                        "datatype": "integer",
                         "constraints": {
                             "required": true,
                             "unique": false
                         }
                     },
                     {
-                        "name": "label_malayalam",
-                        "title": "Label (Malayalam)",
-                        "description": "Corresponding LSG name in Malayalam",
-                        "datatype": "string",
+                        "name": "male",
+                        "title": "Male",
+                        "description": "Total number of  positive case males in each age group",
+                        "datatype": "integer",
                         "constraints": {
                             "required": true,
                             "unique": false
                         }
                     },
                     {
-                        "name": "locality",
-                        "title": "Locality",
-                        "description": "Locality of the LSG",
-                        "datatype": "string",
+                        "name": "unspecified",
+                        "title": "Unspecified",
+                        "description": "Total number of positive case gender unpecified patients in each age group",
+                        "datatype": "integer",
                         "constraints": {
                             "required": true,
                             "unique": false
                         }
                     },
                     {
-                        "name": "district",
-                        "title": "District",
-                        "description": "The district in which LSG belongs to.",
-                        "datatype": "string",
+                        "name": "total",
+                        "title": "Total",
+                        "description": "Total number of positive cases in each age group",
+                        "datatype": "integer",
                         "constraints": {
                             "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "type",
-                        "title": "Type",
-                        "description": "LSG type",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "status",
-                        "title": "Status",
-                        "description": "Status of the hotspot",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "listed_on",
-                        "title": "Listed On",
-                        "description": "Date in which LSG is entered to the hotspot list.",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "unlisted_on",
-                        "title": "Unlisted On",
-                        "description": "Date on which LSG is removed from the hotspot list.",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "last_updated_on",
-                        "title": "Last Updated On",
-                        "description": "Last updated the hotspot status",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "notes",
-                        "title": "Notes",
-                        "description": "Additional Information on the hotspot",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "reference",
-                        "title": "Source",
-                        "description": "Source of informtion.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "latitude",
-                        "title": "Latitude",
-                        "description": "Lattitude value of corresponding hotspot.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "longitude",
-                        "title": "Longitude",
-                        "description": "Longitude value of corresponding hotspot.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
                             "unique": false
                         }
                     }
