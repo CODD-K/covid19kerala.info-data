@@ -1,13 +1,13 @@
 {
     "$schema": "https://specs.frictionlessdata.io/schemas/tabular-data-package.json",
     "profile": "tabular-data-package",
-    "id": "https://github.com/CODD-K/covid19kerala.info-data",
+    "id": "https://doi.org/10.5281/zenodo.3818096",
     "name": "open_dataset_of_covid_19_outbreak_in_kerala",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "title": "Covid19Kerala.info-Data: A collective open dataset of COVID-19 outbreak in the south Indian state of Kerala",
     "description": "Covid19Kerala.info-Data is a consolidated multi-source open dataset of metadata from the COVID-19 outbreak in the Indian state of Kerala. It is created and maintained by volunteers of \u2018Collective for Open Data Distribution-Keralam\u2019 (CODD-K), a nonprofit consortium of individuals formed for the distribution and longevity of open-datasets. Covid19Kerala.info-Data covers a set of correlated temporal and spatial metadata of SARS-CoV-2 infections and prevention measures in Kerala. Static releases of this dataset snapshots are manually produced from a live database maintained as a set of publicly accessible Google sheets. This dataset is made available under the Open Data Commons Attribution License v1.0 (ODC-BY 1.0).",
     "homepage": "https://covid19kerala.info/",
-    "image": "https://codd-k.github.io/covid19kerala.info-data/images/codd-k_logo.png",
+    "image": "",
     "temporal": {
         "name": "COVID-19 Outbreak Kerala",
         "start": "2020-01-30",
@@ -32,7 +32,7 @@
         {
             "title": "Nishad Thalhath",
             "path": "https://orcid.org/0000-0001-9845-9714",
-            "reole": "maintainer"
+            "role": "maintainer"
         },
         {
             "title": "Sreekanth Chaliyeduth",
@@ -109,7 +109,7 @@
         "Crowdsourcing",
         "India"
     ],
-    "created": "2020-05-09T00:32:23",
+    "created": "2020-05-14T16:02:32",
     "licenses": [
         {
             "name": "ODC-BY-1.0",
@@ -140,18 +140,18 @@
             },
             "encoding": "utf-8",
             "format": "csv",
-            "name": "hotspots",
-            "title": "Hotspots",
-            "description": "hotspots dataset provides the details of places declared as hotspots by DHS Kerala.",
-            "path": "hotspots.csv",
-            "hash": "b0276df5d853445eaca3b7ecbf19a79c",
+            "name": "patient_data",
+            "title": "Patient Data",
+            "description": "patient_data contains the collected information about each patient.",
+            "path": "patient_data.csv",
+            "hash": "0924f603bcebe3fdefcf35bdc5a3e6d8",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
                     {
-                        "name": "hotspot_number",
-                        "title": "Hotspot Number",
-                        "description": "Unique identifire number of hotspot in this dataset",
+                        "name": "patient_number",
+                        "title": "Patient Number",
+                        "description": "Unique reference number of the patient within the dataset",
                         "datatype": "integer",
                         "constraints": {
                             "required": true,
@@ -159,19 +159,29 @@
                         }
                     },
                     {
-                        "name": "lsg_code",
-                        "title": "LSG Code",
-                        "description": "Corresponding LSG code",
-                        "datatype": "string",
+                        "name": "date_announced",
+                        "title": "Date Announced",
+                        "description": "The date which DHS announced this patient is COVID-19 positive.",
+                        "datatype": "date",
                         "constraints": {
-                            "required": false,
+                            "required": true,
                             "unique": false
                         }
                     },
                     {
-                        "name": "label",
-                        "title": "Label",
-                        "description": "Corresponding LSG name in English",
+                        "name": "date_added",
+                        "title": "Date Added",
+                        "description": "The date which this patient is added to CODD-K data base.",
+                        "datatype": "date",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "age_bracket",
+                        "title": "Age Bracket",
+                        "description": "Age of the patient.",
                         "datatype": "string",
                         "constraints": {
                             "required": true,
@@ -179,9 +189,9 @@
                         }
                     },
                     {
-                        "name": "label_malayalam",
-                        "title": "Label (Malayalam)",
-                        "description": "Corresponding LSG name in Malayalam",
+                        "name": "gender",
+                        "title": "Gender",
+                        "description": "Gender of the patient",
                         "datatype": "string",
                         "constraints": {
                             "required": true,
@@ -189,9 +199,9 @@
                         }
                     },
                     {
-                        "name": "locality",
-                        "title": "Locality",
-                        "description": "Locality of the LSG",
+                        "name": "residence_city_or_district",
+                        "title": "Residence City or District",
+                        "description": "The residence city or district of the patient.",
                         "datatype": "string",
                         "constraints": {
                             "required": true,
@@ -199,9 +209,9 @@
                         }
                     },
                     {
-                        "name": "district",
-                        "title": "District",
-                        "description": "The district in which LSG belongs to.",
+                        "name": "detected_city",
+                        "title": "Detected City",
+                        "description": "The city in which corresponding patient found COVID-19 positive.",
                         "datatype": "string",
                         "constraints": {
                             "required": true,
@@ -209,9 +219,9 @@
                         }
                     },
                     {
-                        "name": "type",
-                        "title": "Type",
-                        "description": "LSG type",
+                        "name": "detected_district",
+                        "title": "Detected District",
+                        "description": "The district in which corresponding patient found COVID-19 positive.",
                         "datatype": "string",
                         "constraints": {
                             "required": true,
@@ -221,7 +231,7 @@
                     {
                         "name": "status",
                         "title": "Status",
-                        "description": "Status of the hotspot",
+                        "description": "The current status of the patiend. Five possibilities - Hospitalized,Discharged,Recovered,Deceased,Unspecified",
                         "datatype": "string",
                         "constraints": {
                             "required": true,
@@ -229,30 +239,10 @@
                         }
                     },
                     {
-                        "name": "listed_on",
-                        "title": "Listed On",
-                        "description": "Date in which LSG is entered to the hotspot list.",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "unlisted_on",
-                        "title": "Unlisted On",
-                        "description": "Date on which LSG is removed from the hotspot list.",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "last_updated_on",
-                        "title": "Last Updated On",
-                        "description": "Last updated the hotspot status",
-                        "datatype": "date",
+                        "name": "transmission_type",
+                        "title": "Transmission Type",
+                        "description": "Type of transmission",
+                        "datatype": "string",
                         "constraints": {
                             "required": true,
                             "unique": false
@@ -261,8 +251,108 @@
                     {
                         "name": "notes",
                         "title": "Notes",
-                        "description": "Additional Information on the hotspot",
+                        "description": "Notes about the patient.",
                         "datatype": "string",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "related_patients",
+                        "title": "Related Patients",
+                        "description": "Patients who got infected from this patient.",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "known_cluster",
+                        "title": "Known Cluster",
+                        "description": "The cluster in which patient belongs to.",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "dhs_patient_number",
+                        "title": "DHS Patient Number",
+                        "description": "For some patients DHS alloted a unique number.",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "origin_state",
+                        "title": "Origin State",
+                        "description": "The state in which patient got infected.",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "origin_country",
+                        "title": "Origin Country",
+                        "description": "The country in which patient got infected.",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "district_patient_number",
+                        "title": "District Patient Number",
+                        "description": "Unique number assigned to this patient by the district authorities",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "city_patient_number",
+                        "title": "City Patient Number",
+                        "description": "Unique number assigned to this patient by city authorities",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "released",
+                        "title": "Released Date",
+                        "description": "The date on which patient got released.",
+                        "datatype": "date",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "recovery_time",
+                        "title": "Recovery Time",
+                        "description": "Number of days between date_announced and released..",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "deceased",
+                        "title": "Deceased Date",
+                        "description": "The date on which patient got deceased.",
+                        "datatype": "date",
                         "constraints": {
                             "required": false,
                             "unique": false
@@ -270,28 +360,8 @@
                     },
                     {
                         "name": "reference",
-                        "title": "Source",
-                        "description": "Source of informtion.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "latitude",
-                        "title": "Latitude",
-                        "description": "Lattitude value of corresponding hotspot.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "longitude",
-                        "title": "Longitude",
-                        "description": "Longitude value of corresponding hotspot.",
+                        "title": "References",
+                        "description": "References to the collected data.",
                         "datatype": "string",
                         "constraints": {
                             "required": false,
@@ -313,28 +383,58 @@
             },
             "encoding": "utf-8",
             "format": "csv",
-            "name": "hotspots",
-            "title": "Hotspots",
-            "description": "hotspots dataset provides the details of places declared as hotspots by DHS Kerala.",
-            "path": "hotspots.csv",
-            "hash": "b0276df5d853445eaca3b7ecbf19a79c",
+            "name": "district_data",
+            "title": "District Data",
+            "description": "district_data provides the district wise split of collected information.",
+            "path": "district_data.csv",
+            "hash": "36993cb771c6a8aca3a7bdab15ee212c",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
                     {
-                        "name": "hotspot_number",
-                        "title": "Hotspot Number",
-                        "description": "Unique identifire number of hotspot in this dataset",
-                        "datatype": "integer",
+                        "name": "district",
+                        "title": "District",
+                        "description": "Name of district in English",
+                        "datatype": "string",
                         "constraints": {
                             "required": true,
                             "unique": true
                         }
                     },
                     {
-                        "name": "lsg_code",
-                        "title": "LSG Code",
-                        "description": "Corresponding LSG code",
+                        "name": "district_malayalam",
+                        "title": "District Label (Malayalam)",
+                        "description": "Name of district in Malayalam",
+                        "datatype": "string",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "cases",
+                        "title": "Cases",
+                        "description": "Number of cases in a district.",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "recovered",
+                        "title": "Recovered",
+                        "description": "Number of recovered cases in a district.",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "deaths",
+                        "title": "Deaths",
+                        "description": "Number of deaths in a district.",
                         "datatype": "string",
                         "constraints": {
                             "required": false,
@@ -342,130 +442,20 @@
                         }
                     },
                     {
-                        "name": "label",
-                        "title": "Label",
-                        "description": "Corresponding LSG name in English",
+                        "name": "zone",
+                        "title": "Zone",
+                        "description": "Whether the zone belongs to red,orange or green.",
                         "datatype": "string",
                         "constraints": {
-                            "required": true,
+                            "required": false,
                             "unique": false
                         }
                     },
                     {
-                        "name": "label_malayalam",
-                        "title": "Label (Malayalam)",
-                        "description": "Corresponding LSG name in Malayalam",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "locality",
-                        "title": "Locality",
-                        "description": "Locality of the LSG",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "district",
-                        "title": "District",
-                        "description": "The district in which LSG belongs to.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "type",
-                        "title": "Type",
-                        "description": "LSG type",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "status",
-                        "title": "Status",
-                        "description": "Status of the hotspot",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "listed_on",
-                        "title": "Listed On",
-                        "description": "Date in which LSG is entered to the hotspot list.",
+                        "name": "zone_updated_on",
+                        "title": "Zone Updated On",
+                        "description": "Date on which zone updated.",
                         "datatype": "date",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "unlisted_on",
-                        "title": "Unlisted On",
-                        "description": "Date on which LSG is removed from the hotspot list.",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "last_updated_on",
-                        "title": "Last Updated On",
-                        "description": "Last updated the hotspot status",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "notes",
-                        "title": "Notes",
-                        "description": "Additional Information on the hotspot",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "reference",
-                        "title": "Source",
-                        "description": "Source of informtion.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "latitude",
-                        "title": "Latitude",
-                        "description": "Lattitude value of corresponding hotspot.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "longitude",
-                        "title": "Longitude",
-                        "description": "Longitude value of corresponding hotspot.",
-                        "datatype": "string",
                         "constraints": {
                             "required": false,
                             "unique": false
@@ -486,158 +476,118 @@
             },
             "encoding": "utf-8",
             "format": "csv",
-            "name": "hotspots",
-            "title": "Hotspots",
-            "description": "hotspots dataset provides the details of places declared as hotspots by DHS Kerala.",
-            "path": "hotspots.csv",
-            "hash": "b0276df5d853445eaca3b7ecbf19a79c",
+            "name": "sum_by_day",
+            "title": "Sum by Day",
+            "description": "sum_by_day sheet records the values of variables corresponding to each day.",
+            "path": "sum_by_day.csv",
+            "hash": "6ff2c7bc8431dd6b72144809eb38e789",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
                     {
-                        "name": "hotspot_number",
-                        "title": "Hotspot Number",
-                        "description": "Unique identifire number of hotspot in this dataset",
-                        "datatype": "integer",
+                        "name": "date",
+                        "title": "Date",
+                        "description": "Date of the summary data",
+                        "datatype": "date",
                         "constraints": {
                             "required": true,
                             "unique": true
                         }
                     },
                     {
-                        "name": "lsg_code",
-                        "title": "LSG Code",
-                        "description": "Corresponding LSG code",
-                        "datatype": "string",
+                        "name": "confirmed",
+                        "title": "Confirmed",
+                        "description": "Total number of confirmed cases till last_updated_on (Cumulative)",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": true,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "recovered",
+                        "title": "Recovered",
+                        "description": "Total number of recovered cases till last_updated_on (Cumulative)",
+                        "datatype": "integer",
                         "constraints": {
                             "required": false,
                             "unique": false
                         }
                     },
                     {
-                        "name": "label",
-                        "title": "Label",
-                        "description": "Corresponding LSG name in English",
-                        "datatype": "string",
+                        "name": "deceased",
+                        "title": "Deceased",
+                        "description": "Total number ofdeceased cases till last_updated_on (Cumulative)",
+                        "datatype": "integer",
                         "constraints": {
-                            "required": true,
+                            "required": false,
                             "unique": false
                         }
                     },
                     {
-                        "name": "label_malayalam",
-                        "title": "Label (Malayalam)",
-                        "description": "Corresponding LSG name in Malayalam",
-                        "datatype": "string",
+                        "name": "critical",
+                        "title": "Critical",
+                        "description": "Current number of critical cases till last_updated_on",
+                        "datatype": "integer",
                         "constraints": {
-                            "required": true,
+                            "required": false,
                             "unique": false
                         }
                     },
                     {
-                        "name": "locality",
-                        "title": "Locality",
-                        "description": "Locality of the LSG",
-                        "datatype": "string",
+                        "name": "active",
+                        "title": "Active",
+                        "description": "Current number of active cases till last_updated_on",
+                        "datatype": "integer",
                         "constraints": {
-                            "required": true,
+                            "required": false,
                             "unique": false
                         }
                     },
                     {
-                        "name": "district",
-                        "title": "District",
-                        "description": "The district in which LSG belongs to.",
-                        "datatype": "string",
+                        "name": "tested",
+                        "title": "Tested",
+                        "description": "Total number of samples tested till last_updated_on (Cumulative)",
+                        "datatype": "integer",
                         "constraints": {
-                            "required": true,
+                            "required": false,
                             "unique": false
                         }
                     },
                     {
-                        "name": "type",
-                        "title": "Type",
-                        "description": "LSG type",
-                        "datatype": "string",
+                        "name": "observation",
+                        "title": "Observation",
+                        "description": "Current number of people under observation till last_updated_on",
+                        "datatype": "integer",
                         "constraints": {
-                            "required": true,
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "home_observation",
+                        "title": "Home Observation",
+                        "description": "Current number of people under home observation till last_updated_on",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": false,
+                            "unique": false
+                        }
+                    },
+                    {
+                        "name": "hospitalised",
+                        "title": "Hospitalised",
+                        "description": "Current number of people hospitalised till last_updated_on",
+                        "datatype": "integer",
+                        "constraints": {
+                            "required": false,
                             "unique": false
                         }
                     },
                     {
                         "name": "status",
                         "title": "Status",
-                        "description": "Status of the hotspot",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "listed_on",
-                        "title": "Listed On",
-                        "description": "Date in which LSG is entered to the hotspot list.",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "unlisted_on",
-                        "title": "Unlisted On",
-                        "description": "Date on which LSG is removed from the hotspot list.",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "last_updated_on",
-                        "title": "Last Updated On",
-                        "description": "Last updated the hotspot status",
-                        "datatype": "date",
-                        "constraints": {
-                            "required": true,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "notes",
-                        "title": "Notes",
-                        "description": "Additional Information on the hotspot",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "reference",
-                        "title": "Source",
-                        "description": "Source of informtion.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "latitude",
-                        "title": "Latitude",
-                        "description": "Lattitude value of corresponding hotspot.",
-                        "datatype": "string",
-                        "constraints": {
-                            "required": false,
-                            "unique": false
-                        }
-                    },
-                    {
-                        "name": "longitude",
-                        "title": "Longitude",
-                        "description": "Longitude value of corresponding hotspot.",
+                        "description": "Status of the daily record",
                         "datatype": "string",
                         "constraints": {
                             "required": false,
