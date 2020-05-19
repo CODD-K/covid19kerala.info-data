@@ -1,6 +1,6 @@
 # covid19kerala.info Data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3818097.svg)](https://doi.org/10.5281/zenodo.3818097)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3818096.svg)](https://doi.org/10.5281/zenodo.3818096)
 
 ![](images/codd-k_logo_small.svg)
 
@@ -34,9 +34,9 @@ This dataset is made available by the CODD-K consortium under ODC-BY 1.0 license
 ```
 Covid19Kerala.info. 2020. Version X.Y.Z.   
 Retrieved from Covid19Kerala.info.   
-Accessed YYYY-MM-DD. https://doi.org/10.5281/zenodo.3818097. 
+Accessed YYYY-MM-DD. https://doi.org/10.5281/zenodo.3818096. 
 
-In text: (Covid19Kerala.info data, 2020)
+In text: (Covid19Kerala.info-data, 2020)
 ```
 
 
