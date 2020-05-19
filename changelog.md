@@ -1,3 +1,12 @@
+### 2.0.1
+* Minor fixes in datapackage and schema JSON
+* Image link for datapackage
+* Snapshot till 2020-05-08
+
+### 2.0.0
+* Snapshot till 2020-05-08
+* Included age dataset
+
 ### 1.1.0
 * Snapshot till 2020-05-07
 * Fixed and improved schema
