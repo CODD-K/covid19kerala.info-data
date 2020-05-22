@@ -62,7 +62,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 61,2020-03-22,2020-03-22,24,M,Kadalundi,Malappuram,Malappuram,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-12,21,,
 62,2020-03-22,2020-03-22,41,F,Kozhikode,Kozhikode,Kozhikode,Discharged,Travel,,,Abu Dhabi,,,Abroad,,,2020-04-01,10,,
 63,2020-03-22,2020-03-22,27,M,Kozhikode,Kozhikode,Kozhikode,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-08,17,,
-64,2020-03-22,2020-03-22,61,M,Mattanchery,Ernakulam,Ernakulam,Deceased,Travel,,,Dubai,,,Abroad,,,,,,
+64,2020-03-22,2020-03-22,61,M,Mattanchery,Ernakulam,Ernakulam,Deceased,Travel,,,Dubai,,,Abroad,,,,,2020-03-28,
 65,2020-03-22,2020-03-22,21,F,Ernakulam,Ernakulam,Ernakulam,Discharged,Travel,,,UK,,,Abroad,,,2020-04-07,16,,
 66,2020-03-22,2020-03-22,Unspecified,M,Kannur,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-07,16,,
 67,2020-03-22,2020-03-22,Unspecified,M,Kannur,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-07,16,,
@@ -237,7 +237,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 236,2020-03-31,2020-03-31,23,M,Kasaragod,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-12,12,,
 237,2020-03-31,2020-03-31,40,F,Pavaratti,Thrissur,Thrissur,Discharged,Contact,,,Thrissur,,,India,,,2020-04-08,8,,
 238,2020-03-31,2020-03-31,23,M,Kottayampoil,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-05-10,40,,
-239,2020-03-31,2020-03-31,43,F,Prakulam,Kollam,Kollam,Hospitalized,Contact,,180,Kollam,180,,India,,,,,,
+239,2020-03-31,2020-03-31,43,F,Prakulam,Kollam,Kollam,Discharged,Contact,,180,Kollam,180,,India,,,2020-05-14,44,,
 240,2020-03-31,2020-03-31,13,F,Thiruvananthapuram,Thiruvanthapuram,Thiruvananthapuram,Discharged,Contact,,20,Thiruvananthapuram,20,,India,,,2020-04-11,11,,
 241,2020-03-31,2020-03-31,8,M,Thiruvananthapuram,Thiruvananthapuram,Thiruvananthapuram,Discharged,Contact,,20,Thiruvananthapuram,20,,India,,,2020-04-21,21,,
 242,2020-04-01,2020-04-01,18,F,Chemnad,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-12,11,,
@@ -278,7 +278,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 277,2020-04-02,2020-04-02,35,F,Churuli,Idukki,Idukki,Discharged,Contact,,234,Churuli,234,,India,,,2020-04-08,6,,
 278,2020-04-02,2020-04-02,56,M,Thodupuzha,Idukki,Idukki,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-11,9,,
 279,2020-04-02,2020-04-02,27,F,Ettiva,Kollam,Kollam,Discharged,Travel,,,Doha,,,Abroad,,,2020-04-15,13,,
-280,2020-04-02,2020-04-02,28,F,Punalur,Kollam,Kollam,Hospitalized,Travel,,302,Delhi,,Other States,India,,,,,,
+280,2020-04-02,2020-04-02,28,F,Punalur,Kollam,Kollam,Discharged,Travel,,302,Delhi,,Other States,India,,,2020-05-14,42,,
 281,2020-04-02,2020-04-02,47,M,Thiruvallam,Thiruvananthapuram,Thiruvananthapuram,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-08,6,,
 282,2020-04-02,2020-04-02,36,M,Chavakkad,Thrissur,Thrissur,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-10,8,,
 283,2020-04-02,2020-04-02,85,M,Perinthalmanna,Malappuram,Malappuram,Discharged,Contact,,,Perinthalmanna,,,India,,,2020-04-12,10,,
@@ -300,7 +300,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 299,2020-04-04,2020-04-04,30,M,Muliyar,Kasaragod,Kasaragod,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-13,9,,
 300,2020-04-04,2020-04-04,34,F,Kasaragod,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-19,15,,
 301,2020-04-04,2020-04-04,15,F,Kasaragod,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-23,19,,
-302,2020-04-04,2020-04-04,27,M,Oyoor,Kollam,Kollam,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,
+302,2020-04-04,2020-04-04,27,M,Oyoor,Kollam,Kollam,Discharged,Travel,,,Delhi,,Other States,India,,,2020-05-13,39,,
 303,2020-04-04,2020-04-04,32,M,Chengannur,Alappuzha,Alappuzha,Discharged,Travel,,280,Delhi,,Other States,India,,,2020-04-20,16,,
 304,2020-04-04,2020-04-04,23,M,Ernakulam,Ernakulam,Ernakulam,Discharged,Travel,,286,Sharjah,,,Abroad,,,2020-05-01,27,,
 305,2020-04-04,2020-04-04,65,M,Kavilpad,Palakkad,Palakkad,Discharged,Travel,,,Nagpur,,Other States,India,,,2020-04-14,10,,
@@ -311,7 +311,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 310,2020-04-05,2020-04-05,53,M,Kuttiadi,Kozhikode,Kozhikode,Discharged,Travel,,,Delhi,,,India,,,2020-04-15,10,,
 311,2020-04-05,2020-04-05,63,M,Kolathara,Kozhikode,Kozhikode,Discharged,Travel,,,Delhi,,,India,,,2020-04-15,10,,
 312,2020-04-05,2020-04-05,7,M,Kasaragod,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-05-07,32,,
-313,2020-04-05,2020-04-05,81,M,Cheruvancheri,Kannur,Kannur,Hospitalized,Contact,,336,Kannur,336,,India,,,,,,
+313,2020-04-05,2020-04-05,81,M,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,2020-05-16,41,,
 314,2020-04-05,2020-04-05,19,F,Muttar,Pathanamthitta,Pathanamthitta,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-13,8,,
 315,2020-04-06,2020-04-06,29,M,Mogral,Kasaragod,Kasaragod,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-16,10,,
 316,2020-04-06,2020-04-06,31,M,Chengala,Kasaragod,Kasaragod,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-18,12,,
@@ -330,14 +330,14 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 329,2020-04-07,2020-04-07,31,M,Mogral,Kasaragod,Kasaragod,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-17,10,,
 330,2020-04-07,2020-04-07,67,F,Uduma,Kasaragod,Kasaragod,Discharged,Contact,,,Uduma,,,India,,,2020-04-16,9,,
 331,2020-04-07,2020-04-07,10,M,Madhur,Kasaragod,Kasaragod,Discharged,Contact,,,Madhur,,,India,,,2020-04-20,13,,
-332,2020-04-07,2020-04-07,42,M,Chittariparambu,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,,Abroad,,,,,,
+332,2020-04-07,2020-04-07,42,M,Chittariparambu,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-05-14,37,,
 333,2020-04-07,2020-04-07,31,M,Patyam,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-05-07,30,,
 334,2020-04-07,2020-04-07,52,M,Nilamel,Kollam,Kollam,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-30,23,,
 335,2020-04-07,2020-04-07,45,F,Vengara,Malappuram,Malappuram,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-24,17,,
 336,2020-04-08,2020-04-08,11,M,Cheruvancheri,Kannur,Kannur,Discharged,Travel,,,Sharjah,,,Abroad,,,2020-05-04,26,,
-337,2020-04-08,2020-04-08,35,M,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,2020-05-02,24,,
-338,2020-04-08,2020-04-08,32,M,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,,,,
-339,2020-04-08,2020-04-08,40,M,Madayi,Kannur,Kannur,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-25,17,,
+337,2020-04-08,2020-04-08,35,M,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,2020-05-04,26,,
+338,2020-04-08,2020-04-08,32,M,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,2020-05-07,29,,
+339,2020-04-08,2020-04-08,40,M,Madayi,Kannur,Kannur,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-25,17,,https://epaper.deshabhimani.com/c/51304917
 340,2020-04-08,2020-04-08,43,M,Cherthala,Alappuzha,Alappuzha,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-17,9,,
 341,2020-04-08,2020-04-08,Unspecified,M,Kayamkulam,Alappuzha,Alappuzha,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-20,12,,
 342,2020-04-08,2020-04-08,27,M,Ranni,Pathanamthitta,Pathanamthitta,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-21,13,,
@@ -348,7 +348,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 347,2020-04-09,2020-04-09,8,F,Kalanad,Kasaragod,Kasaragod,Discharged,Contact,,25,Kasaragod,25,,India,,,2020-04-23,14,,
 348,2020-04-09,2020-04-09,46,M,Bendichal,Kasaragod,Kasaragod,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-23,14,,
 349,2020-04-09,2020-04-09,70,F,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,2020-05-02,23,,
-350,2020-04-09,2020-04-09,31,F,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,,,,
+350,2020-04-09,2020-04-09,31,F,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,2020-05-05,26,,
 351,2020-04-09,2020-04-09,25,F,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,336,Kannur,336,,India,,,2020-04-21,12,,
 352,2020-04-09,2020-04-09,13,M,Cheruvancheri,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-05-01,22,,
 353,2020-04-09,2020-04-09,42,F,Mampuram,Malappuram,Malappuram,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-26,17,,
@@ -358,16 +358,16 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 357,2020-04-10,2020-04-10,52,F,Muliyar,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-29,19,,
 358,2020-04-10,2020-04-10,25,F,Muliyar,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-30,20,,
 359,2020-04-10,2020-04-10,17,M,Thalangara,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-05-01,21,,
-360,2020-04-10,2020-04-10,59,F,Kudiyanmala,Kannur,Kannur,Discharged,Contact,,189,Kannur,189,,India,,,,,,
-361,2020-04-10,2020-04-10,60,M,Kudiyanmala,Kannur,Kannur,Discharged,Contact,,189,Kannur,189,,India,,,,,,
+360,2020-04-10,2020-04-10,59,F,Kudiyanmala,Kannur,Kannur,Discharged,Contact,,189,Kannur,189,,India,,,2020-05-02,22,,
+361,2020-04-10,2020-04-10,60,M,Kudiyanmala,Kannur,Kannur,Discharged,Contact,,189,Kannur,189,,India,,,2020-05-02,22,,
 362,2020-04-10,2020-04-10,30,M,Chunkathara,Malappuram,Malappuram,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-24,14,,
 363,2020-04-10,2020-04-10,48,M,Chunkathara,Malappuram,Malappuram,Discharged,Travel,,,Delhi,,Other States,India,,,2020-04-24,14,,
 364,2020-04-11,2020-04-11,33,M,Koothuparambu,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-21,10,,
 365,2020-04-11,2020-04-11,29,M,Kottayam,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-21,10,,
 366,2020-04-11,2020-04-11,14,F,Kathiroor,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-04-21,10,,
-367,2020-04-11,2020-04-11,40,F,Kathiroor,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-04-21,10,,
-368,2020-04-11,2020-04-11,68,F,Kathiroor,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,,,,
-369,2020-04-11,2020-04-11,87,M,Mooriyad,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,,India,,,,,,
+367,2020-04-11,2020-04-11,40,F,Kathiroor,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-04-25,14,,
+368,2020-04-11,2020-04-11,68,F,Kathiroor,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-05-16,35,,
+369,2020-04-11,2020-04-11,87,M,Mooriyad,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-04-21,10,,
 370,2020-04-11,2020-04-11,42,M,Mooriyad,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-04-21,10,,
 371,2020-04-11,2020-04-11,10,F,Kudlu,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-24,13,,
 372,2020-04-11,2020-04-11,8,F,Kudlu,Kasaragod,Kasaragod,Discharged,Contact,,,Kasaragod,,,India,,,2020-04-24,13,,
@@ -383,7 +383,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 382,2020-04-14,2020-04-14,33,F,Chittariparambu,Kannur,Kannur,Discharged,Contact,,232,Kannur,232,,India,,,2020-05-10,26,,
 383,2020-04-14,2020-04-14,42,M,Azhiyoor,Kozhikode,Kozhikode,Discharged,Contact,,,Mahe,,,India,,,2020-04-27,13,,
 384,2020-04-14,2020-04-14,19,F,Edacheri,Kozhikode,Kozhikode,Discharged,Contact,,385,Kozhikode,385,,India,,,2020-04-29,15,,
-385,2020-04-14,2020-04-14,35,M,Edacheri,Kozhikode,Kozhikode,Discharged,Travel,,,DUbai,,,Abroad,,,2020-04-29,15,,
+385,2020-04-14,2020-04-14,35,M,Edacheri,Kozhikode,Kozhikode,Discharged,Travel,,,Dubai,,,Abroad,,,2020-04-29,15,,
 386,2020-04-14,2020-04-14,47,M,Chengala,Kasaragod,Kasaragod,Discharged,Travel,,,Dubai,,,Abroad,,,2020-05-10,26,,
 387,2020-04-15,2020-04-15,70,F,Muriyad,Kannur,Kannur,Discharged,Contact,,369,Kannur,369,,India,,,2020-05-08,23,,
 388,2020-04-16,2020-04-16,48,M,Patyam,Kannur,Kannur,Discharged,Travel,,,Dubai,,,Abroad,,,2020-05-08,22,,
@@ -497,8 +497,39 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 496,2020-04-30,2020-04-30,41,M,Mogral,Kasaragod,Kasaragod,Discharged,Travel,,,Dubai,,,Abroad,,,2020-05-04,4,,
 497,2020-04-30,2020-04-30,40,M,Edappal,Malappuram,Malappuram,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-05-04,4,,
 498,2020-05-02,2020-05-02,52,M,Mananthawady,Wayanad,Wayanad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,
-499,2020-05-02,2020-05-02,25,M,Muriyad,Kannur,Kannur,Discharged,Contact,,,Kannur,,,India,,,2020-05-08,6,,
-500,2020-05-05,2020-05-05,84,F,Wayanad,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,,India,,,,,,
-501,2020-05-05,2020-05-05,42,F,Wayanad,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,,India,,,,,,
-502,2020-05-05,2020-05-05,20,M,Wayanad,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,,India,,,,,,
+499,2020-05-02,2020-05-02,25,M,Muriyad,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,Kerala,India,,,,,,
+500,2020-05-05,2020-05-05,84,F,Wayanad,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,Kerala,India,,,,,,
+501,2020-05-05,2020-05-05,42,F,Wayanad,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,Kerala,India,,,,,,
+502,2020-05-05,2020-05-05,20,M,Wayanad,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,Kerala,India,,,,,,
 503,2020-05-08,2020-05-08,30,F,Ernakulam,Ernakulam,Ernakulam,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,
+504,2020-05-09,2020-05-09,24,M,Edappal,Malappuram,Malappuram,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/dcekm/posts/1000489190348904?__cft__[0]=AZUCvT-U18GNI4-AUJr9Mnmy_o8kFmskmhxWvsIKTzqdeiuhinUKM-2vuSOgKyEJMKbu2VzzspCx8uU00pTKv8h7fX9lE0cxQLjAUwmGYNIFwV64lDZj8WLjO2wysPQ7WHSwsbuS1ERF_4GR_kIsEWYEU_KjMbPQwNihurIV1B0wnQ&__tn__=%2CO%2CP-R
+505,2020-05-09,2020-05-09,39,M,Kottakkal,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,
+506,2020-05-10,2020-05-10,25,M,Bathery Cheeral,Wayanad,Wayanad,Hospitalized,Travel,,,Koyambedu,,Other States,India,,,,,,https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2
+507,2020-05-10,2020-05-10,20,M,Edavaka Kammana,Wayanad,Wayanad,Hospitalized,Contact,,502,Wayanad,,Kerala,,,,,,,https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2 https://epaper.deshabhimani.com/c/52092419
+508,2020-05-10,2020-05-10,45,F,Meenangadi,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,,Kerala,,,,,,,https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2
+509,2020-05-10,2020-05-10,26,M,Chavakkad,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.deshabhimani.com/news/kerala/covid-19-kerala/870695
+510,2020-05-10,2020-05-10,22,F,Chavakkad,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.deshabhimani.com/news/kerala/covid-19-kerala/870695
+511,2020-05-10,2020-05-10,5,M,Ernakulam,Ernakulam,Ernakulam,Hospitalized,Travel,,503,Chennai,,Other States,,,,,,,
+512,2020-05-10,2020-05-10,34,M,Angadippuram,Malappuram,Malappuram,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,
+513,2020-05-11,2020-05-11,41,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788
+514,2020-05-11,2020-05-11,49,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788
+515,2020-05-11,2020-05-11,61,M,Mangalpadi,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788
+516,2020-05-11,2020-05-11,51,M,Paivalike,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788
+517,2020-05-11,2020-05-11,50,M,Srikrishnapuram,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,
+518,2020-05-11,2020-05-11,0,M,Wayanad,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,Kerala,,,,,,,http://opennewser.com/home/get_news/26129
+519,2020-05-11,2020-05-11,40,M,Nilambur,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+520,2020-05-12,2020-05-12,27,F,Tirur,Malappuram,Malappuram,Hospitalized,Travel,,520,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/malappuramcollector/posts/3290250417687042?__cft__[0]=AZW_zvYIfIjEP7mcqmyUQBB3Q1HQORd7VM-uCh6goPfsgvNvPHufBcILDBxq_EpXFq73iK5RyzdJlzhHtuhXwujvTmMuppkaS-8-UNx4YJsXmqaoek7qpgqZhTX1GPBINHAS_--MGu2tHOTkye-_TwB8TgnrAad3ECfW093Ms4zSrw&__tn__=%2CO%2CP-R
+521,2020-05-12,2020-05-12,3,M,Tirur,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/malappuramcollector/posts/3290250417687042?__cft__[0]=AZW_zvYIfIjEP7mcqmyUQBB3Q1HQORd7VM-uCh6goPfsgvNvPHufBcILDBxq_EpXFq73iK5RyzdJlzhHtuhXwujvTmMuppkaS-8-UNx4YJsXmqaoek7qpgqZhTX1GPBINHAS_--MGu2tHOTkye-_TwB8TgnrAad3ECfW093Ms4zSrw&__tn__=%2CO%2CP-R
+522,2020-05-12,2020-05-12,44,M,Pallikkal Bazaar,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/malappuramcollector/posts/3290250417687042?__cft__[0]=AZW_zvYIfIjEP7mcqmyUQBB3Q1HQORd7VM-uCh6goPfsgvNvPHufBcILDBxq_EpXFq73iK5RyzdJlzhHtuhXwujvTmMuppkaS-8-UNx4YJsXmqaoek7qpgqZhTX1GPBINHAS_--MGu2tHOTkye-_TwB8TgnrAad3ECfW093Ms4zSrw&__tn__=%2CO%2CP-R
+523,2020-05-12,2020-05-12,69,F,Kottangal,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://pathanamthittamedia.com/covid-positive-report-pathanamthitta/
+524,2020-05-12,2020-05-12,2,M,Uzhavoor,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+525,2020-05-13,2020-05-13,29,F,Uzhavoor,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+526,2020-05-13,2020-05-13,50,M,Maranchery,Malappuram,Malappuram,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/990649497647157/posts/3292802537431830/
+527,2020-05-13,2020-05-13,64,M,Manoor Nadakkav,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/990649497647157/posts/3292802537431830/
+528,2020-05-13,2020-05-13,31,M,Peruvallur,Malappuram,Malappuram,Hospitalized,Contact,,498,Wayanad,498,Kerala,India,,,,,,https://www.facebook.com/990649497647157/posts/3292802537431830/ https://www.facebook.com/prdwayanad/posts/3200383713306358
+529,2020-05-13,2020-05-13,27,F,Mananthawady,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,Kerala,India,,,,,,http://opennewser.com/home/get_news/26191
+530,2020-05-13,2020-05-13,5,F,Mananthawady,Wayanad,Wayanad,Hospitalized,Contact,,498,Wayanad,498,Kerala,India,,,,,,http://opennewser.com/home/get_news/26191
+531,2020-05-13,2020-05-13,42,M,Kelakam,Kannur,Kannur,Hospitalized,Contact,,498,Wayanad,498,Kerala,India,,,,,,https://prdlive.kerala.gov.in/news/80782
+532,2020-05-13,2020-05-13,37,M,Vadakara,Kozhikode,Kozhikode,Hospitalized,Travel,,,Bahrain,,Abroad,Abroad,,,,,,https://www.samakalikamalayalam.com/keralam/2020/may/13/%E0%B4%95%E0%B5%8B%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%8D-%E0%B4%B5%E0%B5%80%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%82-%E0%B4%AA%E0%B5%8B%E0%B4%B8%E0%B4%BF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%80%E0%B4%B5%E0%B5%8D-%E0%B4%95%E0%B5%87%E0%B4%B8%E0%B5%8D-%E0%B4%95%E0%B5%8B%E0%B4%B5%E0%B4%BF%E0%B4%A1%E0%B5%8D-%E0%B4%B8%E0%B5%8D%E0%B4%A5%E0%B4%BF%E0%B4%B0%E0%B5%80%E0%B4%95%E0%B4%B0%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%A4%E0%B5%8D-%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%B2%E0%B5%86-%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%B2%E0%B5%86%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%AF-%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%B5%E0%B4%BE%E0%B4%B8%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D-87309.html
+533,2020-05-13,2020-05-13,62,M,Kandambazhippuram,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/592410094736725/
+534,2020-05-13,2020-05-13,39,M,Srikrishnapuram,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/592410094736725/
