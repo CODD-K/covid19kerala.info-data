@@ -1,3 +1,6 @@
+### 2.2.0
+* Snapshot till 2020-05-22
+
 ### 2.1.0
 * Snapshot till 2020-05-13
 

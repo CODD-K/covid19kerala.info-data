@@ -4,10 +4,12 @@ hotspot_number,lsg_code,label,label_malayalam,locality,district,type,status,list
 3,G050708,Manarkkad,മണര്‍കാട്,Manarkkad,Kottayam,Panchayat,Unlisted,2020-04-26,2020-05-14,2020-05-14,Containment Zone: Whole LSG,DHS bulletin from Listed On Date,,
 4,C070100,Kochi,കൊച്ചി,Kochi,Ernakulam,Corporation,Unlisted,2020-04-22,2020-05-07,2020-04-27,,DHS bulletin from Listed On Date,,
 5,G060501,Idukki Kanjikuzhi,ഇടുക്കി കഞ്ഞിക്കുഴി,Idukki Kanjikuzhi,Idukki,Panchayat,Unlisted,2020-04-22,2020-04-30,2020-04-30,,DHS bulletin from Listed On Date,,
-6,G060805,Elappara,ഏലപ്പാറ,Elappara,Idukki,Panchayat,Unlisted,2020-04-24,2020-05-14,2020-05-14,"Containment Zones: Wards 11, 12, 13",DHS bulletin from Listed On Date,,
+6,G060805,Elappara,ഏലപ്പാറ,Elappara,Idukki,Panchayat,Unlisted,2020-04-24,2020-05-14,2020-05-14,"Containment Zones: Wards 11, 12, 13
+",DHS bulletin from Listed On Date,,
 7,G060505,Vazhathope,വാഴത്തോപ്പ്,Vazhathope,Idukki,Panchayat,Unlisted,2020-04-24,2020-05-07,2020-05-06,"Containment Zone: Wards 8, 14",DHS bulletin from Listed On Date,,
 8,M060100,Thodupuzha,തൊടുപുഴ,Thodupuzha,Idukki,Municipality,Unlisted,2020-04-22,2020-04-30,2020-04-30,,DHS bulletin from Listed On Date,,
-9,G060305,Nedumkandam,നെടുങ്കണ്ടം,Nedumkandam,Idukki,Panchayat,Unlisted,2020-04-24,2020-05-07,2020-05-06,"Containment Zones: Wards 9, 10, 11",DHS bulletin from Listed On Date,,
+9,G060305,Nedumkandam,നെടുങ്കണ്ടം,Nedumkandam,Idukki,Panchayat,Unlisted,2020-04-24,2020-05-07,2020-05-06,"Containment Zones: Wards 9, 10, 11
+",DHS bulletin from Listed On Date,,
 10,G060103,Bisonvally,ബൈസണ്‍ വാലി,Bisonvally,Idukki,Panchayat,Unlisted,2020-04-22,2020-04-30,2020-04-30,,DHS bulletin from Listed On Date,,
 11,G060506,Mariyapuram,മരിയാപുരം,Mariyapuram,Idukki,Panchayat,Unlisted,2020-04-22,2020-04-30,2020-04-30,,DHS bulletin from Listed On Date,,
 12,G060302,Senapathi,സേനാപതി,Senapathi,Idukki,Panchayat,Unlisted,2020-04-22,2020-05-07,2020-05-06,Containment Zone: Ward 3,DHS bulletin from Listed On Date,,
@@ -50,7 +52,8 @@ hotspot_number,lsg_code,label,label_malayalam,locality,district,type,status,list
 49,G020501,Kulathupuzha,കുളത്തൂപ്പുഴ,Kulathupuzha,Kollam,Panchayat,Unlisted,2020-04-22,2020-05-07,2020-04-27,,DHS bulletin from Listed On Date,,
 50,M020300,Punalur,പുനലൂര്‍,Punalur,Kollam,Municipality,Unlisted,2020-04-22,2020-05-14,2020-05-14,Containment Zone: Ward 17,DHS bulletin from Listed On Date,,
 51,G021107,Nilamel,നിലമേല്‍,Nilamel,Kollam,Panchayat,Unlisted,2020-04-22,2020-05-07,2020-04-27,,DHS bulletin from Listed On Date,,
-52,G020708,Thrikkaruva,തൃക്കരുവ,Thrikkaruva,Kollam,Panchayat,Unlisted,2020-04-22,2020-05-14,2020-05-14,"Containment Zones: Wards 9, 10, 12, 13",DHS bulletin from Listed On Date,,
+52,G020708,Thrikkaruva,തൃക്കരുവ,Thrikkaruva,Kollam,Panchayat,Unlisted,2020-04-22,2020-05-14,2020-05-14,"Containment Zones: Wards 9, 10, 12, 13
+",DHS bulletin from Listed On Date,,
 53,G050804,Vijayapuram,വിജയപുരം,Vijayapuram,Kottayam,Panchayat,Unlisted,2020-04-24,2020-05-07,2020-05-06,Containment Zone: Whole LSG,DHS bulletin from Listed On Date,,
 54,G050803,Panachikkad,പനച്ചിക്കാട്,Panachikkad,Kottayam,Panchayat,Unlisted,2020-04-24,2020-05-14,2020-05-14,Containment Zone: Whole LSG,DHS bulletin from Listed On Date,,
 55,M050400,Kottayam,കോട്ടയം,Kottayam,Kottayam,Municipality,Unlisted,2020-04-24,2020-05-14,2020-05-14,Containment Zone: Whole LSG,DHS bulletin from Listed On Date,,
@@ -86,7 +89,8 @@ hotspot_number,lsg_code,label,label_malayalam,locality,district,type,status,list
 85,C010100,Thiruvananthapuram,തിരുവനന്തപുരം,Thiruvananthapuram,Thiruvananthapuram,Corporation,Unlisted,2020-04-22,2020-04-30,2020-04-30,,DHS bulletin from Listed On Date,,
 86,M010100,Varkala,വര്‍ക്കല,Varkala,Thiruvananthapuram,Municipality,Unlisted,2020-04-24,2020-05-14,2020-05-14,"Containment Zones: Wards 16, 17",DHS bulletin from Listed On Date,,
 87,G120409,Moopainade,മൂപ്പൈനാട്,Moopainade,Wayanad,Panchayat,Unlisted,2020-04-27,2020-04-30,2020-04-30,,DHS bulletin from Listed On Date,,
-88,G060603,Vandanmedu,വണ്ടന്‍മേട്,Vandanmedu,Idukki,Panchayat,Unlisted,2020-04-27,2020-05-14,2020-05-14,"Containment Zones: Wards 12, 14",DHS bulletin from Listed On Date,,
+88,G060603,Vandanmedu,വണ്ടന്‍മേട്,Vandanmedu,Idukki,Panchayat,Unlisted,2020-04-27,2020-05-14,2020-05-14,"Containment Zones: Wards 12, 14
+",DHS bulletin from Listed On Date,,
 89,G060605,Irattayar,ഇരട്ടയാര്‍,Irattayar,Idukki,Panchayat,Unlisted,2020-04-27,2020-05-07,2020-05-07,Containment Zone: Ward 9,DHS bulletin from Listed On Date,,
 90,G050302,Aimanam,അയ്മനം,Aimanam,Kottayam,Panchayat,Unlisted,2020-04-27,2020-05-07,2020-05-07,Containment Zone: Whole LSG,DHS bulletin from Listed On Date,,
 91,G050206,Velloor,വെള്ളൂര്‍,Velloor,Kottayam,Panchayat,Unlisted,2020-04-27,2020-05-14,2020-05-14,Containment Zone: Whole LSG,DHS bulletin from Listed On Date,,
