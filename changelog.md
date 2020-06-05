@@ -1,3 +1,6 @@
+### 2.4.0 
+* Snapshot till 2020-05-31
+
 ### 2.3.0 
 * Snapshot till 2020-05-24
 * Minor schema fixes
