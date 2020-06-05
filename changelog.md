@@ -1,3 +1,7 @@
+### 2.5.0 
+* Snapshot till 2020-06-03
+* snapshot.txt file with snapshot identifier
+
 ### 2.4.0 
 * Snapshot till 2020-05-31
 
