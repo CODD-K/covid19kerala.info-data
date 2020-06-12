@@ -509,7 +509,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 508,2020-05-10,2020-05-10,45,F,Meenangadi,Wayanad,Wayanad,Discharged,Contact,,498,Wayanad,,Kerala,,,,2020-05-25,15.0,,https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2 http://opennewser.com/home/get_news/26450
 509,2020-05-10,2020-05-10,26,M,Chavakkad,Thrissur,Thrissur,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-05-20,10.0,,https://www.deshabhimani.com/news/kerala/covid-19-kerala/870695
 510,2020-05-10,2020-05-10,22,F,Chavakkad,Thrissur,Thrissur,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-05-20,10.0,,https://www.deshabhimani.com/news/kerala/covid-19-kerala/870695
-511,2020-05-10,2020-05-10,5,M,Ernakulam,Ernakulam,Ernakulam,Hospitalized,Travel,,503,Chennai,,Other States,,,,,,,
+511,2020-05-10,2020-05-10,5,M,Ernakulam,Ernakulam,Ernakulam,Discharged,Travel,,503,Chennai,,Other States,,,,2020-06-06,27.0,,
 512,2020-05-10,2020-05-10,34,M,Angadippuram,Malappuram,Malappuram,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-05-27,17.0,,
 513,2020-05-11,2020-05-11,41,M,Kumbala,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-05-23,12.0,,https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788
 514,2020-05-11,2020-05-11,49,M,Kumbala,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-05-26,15.0,,https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788
@@ -520,7 +520,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 519,2020-05-11,2020-05-11,40,M,Nilambur,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
 520,2020-05-12,2020-05-12,27,F,Tirur,Malappuram,Malappuram,Discharged,Travel,,520,Kuwait,,Abroad,Abroad,,,2020-05-24,12.0,,https://www.facebook.com/malappuramcollector/posts/3290250417687042?__cft__[0]=AZW_zvYIfIjEP7mcqmyUQBB3Q1HQORd7VM-uCh6goPfsgvNvPHufBcILDBxq_EpXFq73iK5RyzdJlzhHtuhXwujvTmMuppkaS-8-UNx4YJsXmqaoek7qpgqZhTX1GPBINHAS_--MGu2tHOTkye-_TwB8TgnrAad3ECfW093Ms4zSrw&__tn__=%2CO%2CP-R
 521,2020-05-12,2020-05-12,3,M,Tirur,Malappuram,Malappuram,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-05-30,18.0,,https://www.facebook.com/malappuramcollector/posts/3290250417687042 https://epaper.deshabhimani.com/c/52369911
-522,2020-05-12,2020-05-12,44,M,Pallikkal Bazaar,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/malappuramcollector/posts/3290250417687042?__cft__[0]=AZW_zvYIfIjEP7mcqmyUQBB3Q1HQORd7VM-uCh6goPfsgvNvPHufBcILDBxq_EpXFq73iK5RyzdJlzhHtuhXwujvTmMuppkaS-8-UNx4YJsXmqaoek7qpgqZhTX1GPBINHAS_--MGu2tHOTkye-_TwB8TgnrAad3ECfW093Ms4zSrw&__tn__=%2CO%2CP-R http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-22-1.pdf
+522,2020-05-12,2020-05-12,44,M,Pallikkal Bazaar,Malappuram,Malappuram,Discharged,Travel,,,Chennai,,Other States,India,,,2020-06-04,23.0,,https://www.facebook.com/malappuramcollector/posts/3290250417687042?__cft__[0]=AZW_zvYIfIjEP7mcqmyUQBB3Q1HQORd7VM-uCh6goPfsgvNvPHufBcILDBxq_EpXFq73iK5RyzdJlzhHtuhXwujvTmMuppkaS-8-UNx4YJsXmqaoek7qpgqZhTX1GPBINHAS_--MGu2tHOTkye-_TwB8TgnrAad3ECfW093Ms4zSrw&__tn__=%2CO%2CP-R http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-22-1.pdf
 523,2020-05-12,2020-05-12,69,F,Kottangal,Pathanamthitta,Pathanamthitta,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-05-31,19.0,,https://pathanamthittamedia.com/covid-positive-report-pathanamthitta/
 524,2020-05-12,2020-05-12,2,M,Uzhavoor,Kottayam,Kottayam,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-05-21,9.0,,
 525,2020-05-13,2020-05-13,29,F,Uzhavoor,Kottayam,Kottayam,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-05-22,9.0,,https://www.facebook.com/diokottayam/posts/1159697717720188
@@ -566,7 +566,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 565,2020-05-15,2020-05-15,1,F,Panavally,Wayanad,Wayanad,Discharged,Contact,,529,Wayanad,529.0,Kerala,India,,,2020-05-23,8.0,,http://opennewser.com/home/get_news/26231
 566,2020-05-15,2020-05-15,22,M,Tanur Pariapuram,Malappuram,Malappuram,Discharged,Travel,,,Chennai,,Other States,India,,,2020-06-01,17.0,,https://www.facebook.com/990649497647157/posts/3298157483563002/ https://epaper.deshabhimani.com/c/52429183
 567,2020-05-15,2020-05-15,22,M,Tanur Pariapuram Olappedika,Malappuram,Malappuram,Discharged,Travel,,,Chennai,,Other States,India,,,2020-05-26,11.0,,https://www.facebook.com/990649497647157/posts/3298157483563002/ https://epaper.deshabhimani.com/c/52248824
-568,2020-05-15,2020-05-15,48,M,Tanur ,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/990649497647157/posts/3298157483563002/
+568,2020-05-15,2020-05-15,48,M,Tanur ,Malappuram,Malappuram,Discharged,Travel,,,Chennai,,Other States,India,,,2020-06-04,20.0,,https://www.facebook.com/990649497647157/posts/3298157483563002/
 569,2020-05-15,2020-05-15,42,M,Pulamanthol,Malappuram,Malappuram,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-05-25,10.0,,https://www.facebook.com/990649497647157/posts/3298157483563002/
 570,2020-05-15,2020-05-15,Unspecified,M,Purakkad,Alappuzha,Alappuzha,Hospitalized,Travel,,,Navi Mumbai,,Other States,India,,,,,,https://www.deshabhimani.com/news/kerala/news-16-05-2020/871717
 571,2020-05-15,2020-05-15,Unspecified,F,Thrikkunnappuzha,Alappuzha,Alappuzha,Discharged,Travel,,,Dammam,,Abroad,Abroad,,,2020-05-26,11.0,,https://www.deshabhimani.com/news/kerala/news-16-05-2020/871717 https://epaper.deshabhimani.com/c/52248188
@@ -574,17 +574,17 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 573,2020-05-15,2020-05-15,43,M,Koyilandy,Kozhikode,Kozhikode,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-06-03,19.0,,https://www.thejasnews.com/sublead/covid-19-updates-calicut-134119
 574,2020-05-15,2020-05-15,25,M,Kuzhalmandam,Palakkad,Palakkad,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/593554847955583/
 575,2020-05-15,2020-05-15,36,M,Punalur ,Kollam,Kollam,Discharged,Travel,,,Jeddah,,Abroad,Abroad,,,2020-05-23,8.0,,https://www.facebook.com/233008147097016/posts/1004809899916833/
-576,2020-05-15,2020-05-15,39,M,Ajanur,Kozhikode,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://m.facebook.com/story.php?story_fbid=172192010917302&id=100507158085788 http://kasaragodchannel.com/?p=163363
+576,2020-05-15,2020-05-15,39,M,Ajanur,Kozhikode,Kasaragod,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-06-05,21.0,,https://m.facebook.com/story.php?story_fbid=172192010917302&id=100507158085788 http://kasaragodchannel.com/?p=163363
 577,2020-05-16,2020-05-16,Unspecified,M,Peringottukara,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/; https://www.manoramaonline.com/district-news/thrissur/2020/05/17/thrissur-four-people-tested-with-covid.html
 578,2020-05-16,2020-05-16,Unspecified,M,Peringottukara,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/; https://www.manoramaonline.com/district-news/thrissur/2020/05/17/thrissur-four-people-tested-with-covid.html
 579,2020-05-16,2020-05-16,30,M,Mulankunnathukaavu,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/; https://www.manoramaonline.com/district-news/thrissur/2020/05/17/thrissur-four-people-tested-with-covid.html
-580,2020-05-16,2020-05-16,35,M,Chalakkudy,Thrissur,Thrissur,Hospitalized,Travel,,,Maldives,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html
+580,2020-05-16,2020-05-16,41,M,Chalakkudy,Thrissur,Thrissur,Deceased,Travel,,,Maldives,,Abroad,Abroad,,,,,2020-06-08,https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html https://www.deshabhimani.com/news/kerala/news-kerala-08-06-2020/876024
 581,2020-05-16,2020-05-16,51,M,Omassery,Kozhikode,Kozhikode,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-05-31,15.0,,https://www.mathrubhumi.com/news/kerala/three-tested-positive-for-covid-19-in-kozhikode-1.4763913
 582,2020-05-16,2020-05-16,55,M,Perambra,Kozhikode,Kozhikode,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-05-31,15.0,,https://www.mathrubhumi.com/news/kerala/three-tested-positive-for-covid-19-in-kozhikode-1.4763913
 583,2020-05-16,2020-05-16,43,M,Narippatta,Kozhikode,Kozhikode,Discharged,Travel,,,Chennai,,Other States,India,,,2020-05-28,12.0,,https://www.mathrubhumi.com/news/kerala/three-tested-positive-for-covid-19-in-kozhikode-1.4763913 https://epaper.deshabhimani.com/2691649/Kozhikode/Kozhikode-29th-May-2020#page/3/2
 584,2020-05-16,2020-05-16,49,M,Karakurussi,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/594178554559879/
 585,2020-05-16,2020-05-16,43,M,Pattambi,Palakkad,Palakkad,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/254481778529560/posts/594178554559879/
-586,2020-05-16,2020-05-16,49,M,Maranchery,Malappuram,Malappuram,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-05-27,11.0,,https://www.facebook.com/malappuramcollector/posts/3301131329932284
+586,2020-05-16,2020-05-16,49,M,Maranchery,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/malappuramcollector/posts/3301131329932284
 587,2020-05-16,2020-05-16,51,M,Maranchery,Malappuram,Malappuram,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-05-31,15.0,,https://www.facebook.com/malappuramcollector/posts/3301131329932284 https://epaper.deshabhimani.com/c/52400952
 588,2020-05-17,2020-05-17,25,M,Vazhikkadavu ,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/164398491705736
 589,2020-05-17,2020-05-17,61,M,Valanchery,Malappuram,Malappuram,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-05-27,10.0,,https://www.facebook.com/informationofficemalappuram/posts/164398491705736
@@ -592,9 +592,9 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 591,2020-05-17,2020-05-17,23,M,Edappal,Malappuram,Malappuram,Discharged,Travel,,,Chennai,,Other States,India,,,2020-05-26,9.0,,https://www.facebook.com/informationofficemalappuram/posts/164398491705736 https://epaper.deshabhimani.com/c/52248824
 592,2020-05-17,2020-05-17,26,F,Kadambazhippuram,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/594781314499603?__cft__[0]=AZURIHfd6bJshXTnJQC4JUnoupDqXxoCFUfL868eiqVjIYHWf9CWOyCAy4qUgoaCH3Je9odJy0G-vBwtX5KuAMkE1_NWUPc3t2WIU-U5Ay58r3OPF8mKlC8xMHmXZfRKPMnST8wQNWRHAX4hCI1sOjSbspS29YZBATHDHCCZtooDGw&__tn__=%2CO%2CP-R
 593,2020-05-17,2020-05-17,35,M,Kadambazhippuram,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/594781314499603?__cft__[0]=AZURIHfd6bJshXTnJQC4JUnoupDqXxoCFUfL868eiqVjIYHWf9CWOyCAy4qUgoaCH3Je9odJy0G-vBwtX5KuAMkE1_NWUPc3t2WIU-U5Ay58r3OPF8mKlC8xMHmXZfRKPMnST8wQNWRHAX4hCI1sOjSbspS29YZBATHDHCCZtooDGw&__tn__=%2CO%2CP-R
-594,2020-05-17,2020-05-17,78,M,Nadapuram,Kozhikode,Kozhikode,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-05-21,4.0,,https://www.manoramaonline.com/district-news/kozhikode/2020/05/18/kozhikode-covid-19-positive-result.html
+594,2020-05-17,2020-05-17,78,M,Nadapuram,Kozhikode,Kozhikode,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-05-21,4.0,,https://www.manoramaonline.com/district-news/kozhikode/2020/05/18/kozhikode-covid-19-positive-result.html https://epaper.deshabhimani.com/2682140/Kozhikode/Kozhikode-22-May-2020#page/2/1
 595,2020-05-17,2020-05-17,23,F,Orkkatteri,Kozhikode,Kozhikode,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-06-03,17.0,,https://www.asianetnews.com/local-news/covid-confirmed-two-more-people-from-abroad-kozhikode-qah6f0
-596,2020-05-17,2020-05-17,24,M,Pattiam,Kannur,Kannur,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://kannurvarthakal.in/17/05/2020/34989/#.XsE_B7wzbIU
+596,2020-05-17,2020-05-17,24,M,Pattiam,Kannur,Kannur,Discharged,Travel,,,Chennai,,Other States,India,,,2020-06-04,,,https://kannurvarthakal.in/17/05/2020/34989/#.XsE_B7wzbIU https://epaper.deshabhimani.com/2700323/Kannur/Kannur-5th-June-2020#page/3/2
 597,2020-05-17,2020-05-17,27,M,Malur Tholambra,Kannur,Kannur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://kannurvarthakal.in/17/05/2020/34989/#.XsE_B7wzbIU
 598,2020-05-17,2020-05-17,25,M,Pullur Periya,Kasaragod,Kasaragod,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=172770670859436&id=100507158085788
 599,2020-05-17,2020-05-17,31,M,Thrissur,Thrissur,Thrissur,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/594781314499603?__cft__[0]=AZURIHfd6bJshXTnJQC4JUnoupDqXxoCFUfL868eiqVjIYHWf9CWOyCAy4qUgoaCH3Je9odJy0G-vBwtX5KuAMkE1_NWUPc3t2WIU-U5Ay58r3OPF8mKlC8xMHmXZfRKPMnST8wQNWRHAX4hCI1sOjSbspS29YZBATHDHCCZtooDGw&__tn__=%2CO%2CP-R
@@ -628,7 +628,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 627,2020-05-18,2020-05-18,37,M,Kaviliumpara,Kozhikode,Kozhikode,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/1135018129945616/posts/2941327025981375/?substory_index=0
 628,2020-05-18,2020-05-18,29,F,Ernakulam,Ernakulam,Ernakulam,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-05-26,8.0,,https://www.facebook.com/233008147097016/posts/1007087823022374/
 629,2020-05-18,2020-05-18,35,M,Pattambi Koppam,Palakkad,Palakkad,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/595476134430121/
-630,2020-05-18,2020-05-18,37,M,Chelembra,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/110297390449180/posts/164720951673490/
+630,2020-05-18,2020-05-18,37,M,Chelembra,Malappuram,Malappuram,Discharged,Travel,,,Chennai,,Other States,India,,,2020-06-04,17.0,,https://www.facebook.com/110297390449180/posts/164720951673490/
 631,2020-05-19,2020-05-19,49,M,Edappal Pothannoor,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/165011288311123?__cft__[0]=AZV6UM3aMmePuBpovwZilUIKhbverdDN6ph6doxul97_3DxbZuNtYkwlmvnDafmh5rCdlpLpzLY3uQatxBOUZeAKixNXWGgI8RDof-3bg4TOhQliKRXbEzv5ImQWZdtKYsVswytBsmgikj4VGhNTLplFgLISwX-J7tZLMUqHVSEKTw&__tn__=%2CO%2CP-R
 632,2020-05-19,2020-05-19,48,M,Munniyoor Chinakkal,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/165011288311123?__cft__[0]=AZV6UM3aMmePuBpovwZilUIKhbverdDN6ph6doxul97_3DxbZuNtYkwlmvnDafmh5rCdlpLpzLY3uQatxBOUZeAKixNXWGgI8RDof-3bg4TOhQliKRXbEzv5ImQWZdtKYsVswytBsmgikj4VGhNTLplFgLISwX-J7tZLMUqHVSEKTw&__tn__=%2CO%2CP-R
 633,2020-05-19,2020-05-19,34,M,Kalikkaavu Vellayoor,Malappuram,Malappuram,Hospitalized,Travel,,,Jeddah,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/165011288311123?__cft__[0]=AZV6UM3aMmePuBpovwZilUIKhbverdDN6ph6doxul97_3DxbZuNtYkwlmvnDafmh5rCdlpLpzLY3uQatxBOUZeAKixNXWGgI8RDof-3bg4TOhQliKRXbEzv5ImQWZdtKYsVswytBsmgikj4VGhNTLplFgLISwX-J7tZLMUqHVSEKTw&__tn__=%2CO%2CP-R
@@ -663,7 +663,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 662,2020-05-20,2020-05-20,61,M,Chavakkad,Thrissur,Thrissur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/2483632581704436/posts/3169605683107119/
 663,2020-05-20,2020-05-20,15,M,Thrikkarippur,Kasaragod,Kasaragod,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-05-31,11.0,,Discharge https://www.facebook.com/permalink.php?story_fbid=176588143811022&id=100507158085788
 664,2020-05-20,2020-05-20,22,M,Arikkulam,Kozhikode,Kozhikode,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-03,14.0,,https://www.facebook.com/permalink.php?story_fbid=2945987665515311&id=1135018129945616&substory_index=0&__cft__[0]=AZUhZnzbEpnchHR4g9bGpDLF4rg4qPb7Y7SHE2PNeq3M7ngmFL6lRN0TDhMilKCLd2IhGP15ozhMSaWaTETx085vTSGhAG1ftYhGJaU7xZMUGGBnor3TKrruYgileyKSRWrM9Br8qSKOEtoi3rRLzw3c7jfb6ljySQvT-LTzJOilZg&__tn__=%2CO%2CP-R
-665,2020-05-20,2020-05-20,38,M,Ernakulam,Ernakulam,Ernakulam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/dcekm/posts/1008564766208013
+665,2020-05-20,2020-05-20,38,M,Ernakulam,Ernakulam,Ernakulam,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-06-05,16.0,,https://www.facebook.com/dcekm/posts/1008564766208013
 666,2020-05-20,2020-05-20,Unspecified,M,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,640,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/districtcollectoralappuzha/posts/867000650372097?__cft__[0]=AZWjXGU07lk4Om2wn10VKDzvFW3GUzSAUZEc53XbzdUckysWWF8khBp6R68dP5nhlaKWLSSqmAfIL5U1OlRANZRGWrQNXPIOwkY2K5DzUvVvheVmfR9kyfWxuk1hH4_Zj08Wb2q0igel7y6oDo-jcGgGnmOlI9EHHNERJQJVuLoZRQ&__tn__=%2CO%2CP-R
 667,2020-05-21,2020-05-21,24,F,Kootilangadi,Malappuram,Malappuram,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-06-01,11.0,,https://www.facebook.com/110297390449180/posts/165586741586911/ https://epaper.deshabhimani.com/c/52429183
 668,2020-05-21,2020-05-21,21,M,Kannamangalam,Malappuram,Malappuram,Discharged,Travel,,,Kuala Lumpur,,Abroad,Abroad,,,2020-05-30,9.0,,https://www.facebook.com/110297390449180/posts/165586741586911/ https://epaper.deshabhimani.com/c/52339468
@@ -753,8 +753,8 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 752,2020-05-23,2020-05-23,64,M,Panur,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
 753,2020-05-23,2020-05-23,65,M,Puzhathi,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
 754,2020-05-23,2020-05-23,55,M,Thalassery Vadakkumpad,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
-755,2020-05-23,2020-05-23,61,M,Pinarayi,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
-756,2020-05-23,2020-05-23,21,F,Bakkalam,Kannur,Kannur,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
+755,2020-05-23,2020-05-23,61,M,Pinarayi,Kannur,Kannur,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-06-04,12.0,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
+756,2020-05-23,2020-05-23,21,F,Bakkalam,Kannur,Kannur,Discharged,Travel,,,Doha,,Abroad,Abroad,,,2020-06-11,19.0,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
 757,2020-05-23,2020-05-23,62,M,Dharmadom,Kannur,Kannur,Hospitalized,Travel,,,Riyadh,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
 758,2020-05-23,2020-05-23,48,M,Peralassery,Kannur,Kannur,Hospitalized,Travel,,,Bengaluru,,Other States,India,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
 759,2020-05-23,2020-05-23,9,F,Mekkunnu,Kannur,Kannur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
@@ -767,12 +767,12 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 766,2020-05-23,2020-05-23,50,F,Uruvachal,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,Kerala,India,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
 767,2020-05-23,2020-05-23,55,F,Koodali,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,Kerala,India,,,,,,https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E
 768,2020-05-23,2020-05-23,36,M,Thennala,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
-769,2020-05-23,2020-05-23,37,M,Ponnani Eeswaramangalam,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
+769,2020-05-23,2020-05-23,37,M,Ponnani Eeswaramangalam,Malappuram,Malappuram,Discharged,Travel,,,Chennai,,Other States,India,,,2020-06-04,12.0,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
 770,2020-05-23,2020-05-23,36,M,Irimbiliyam,Malappuram,Malappuram,Discharged,Travel,,,Maldives,,Abroad,Abroad,,,2020-05-30,7.0,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744 https://epaper.deshabhimani.com/c/52369911
-771,2020-05-23,2020-05-23,46,M,Chungathara,Malappuram,Malappuram,Hospitalized,Travel,,,Maldives,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
+771,2020-05-23,2020-05-23,46,M,Chungathara,Malappuram,Malappuram,Discharged,Travel,,,Maldives,,Abroad,Abroad,,,2020-06-04,12.0,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
 772,2020-05-23,2020-05-23,23,M,Koottilangadi,Malappuram,Malappuram,Discharged,Travel,,,Singapore,,Abroad,Abroad,,,2020-05-30,7.0,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744 https://epaper.deshabhimani.com/c/52369911
 773,2020-05-23,2020-05-23,35,M,Veliyamkodu,Malappuram,Malappuram,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-05-31,8.0,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744 https://epaper.deshabhimani.com/c/52400952
-774,2020-05-23,2020-05-23,29,M,Thiroorangadi,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
+774,2020-05-23,2020-05-23,29,M,Thirurangadi,Malappuram,Malappuram,Discharged,Travel,,,Kuwait,,Abroad,Abroad,,,2020-06-04,12.0,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
 775,2020-05-23,2020-05-23,20,M,Randathani,Malappuram,Malappuram,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/166185078193744
 776,2020-05-23,2020-05-23,Unspecified,M,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446
 777,2020-05-23,2020-05-23,Unspecified,M,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Dammam,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446
@@ -823,10 +823,10 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 822,2020-05-24,2020-05-24,47,M,Paivalike,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-06-02,9.0,,https://www.facebook.com/100507158085788/posts/174696080666895/ https://www.facebook.com/permalink.php?story_fbid=177126373757199&id=100507158085788
 823,2020-05-24,2020-05-24,60,M,Vorkady,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/100507158085788/posts/174696080666895/
 824,2020-05-24,2020-05-24,70,F,Parappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html
-825,2020-05-24,2020-05-24,5,F,Parappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,824,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html
+825,2020-05-24,2020-05-24,5,F,Parappanangadi,Malappuram,Malappuram,Discharged,Travel,,824,Abu Dhabi,,Abroad,Abroad,,,2020-06-04,11.0,,https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html
 826,2020-05-24,2020-05-24,37,M,Thennala,Malappuram,Malappuram,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-01,8.0,,https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html https://epaper.deshabhimani.com/c/52429183
 827,2020-05-24,2020-05-24,68,M,Thriprangad ,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html
-828,2020-05-24,2020-05-24,60,M,Thirunavaya,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html
+828,2020-05-24,2020-05-24,60,M,Thirunavaya,Malappuram,Malappuram,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-06-04,11.0,,https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html
 829,2020-05-24,2020-05-24,Unspecified,M,Thakazhi,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=559670201297481&id=173744753223363
 830,2020-05-24,2020-05-24,Unspecified,F,Thakazhi,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=559670201297481&id=173744753223363
 831,2020-05-24,2020-05-24,Unspecified,M,Thakazhi,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=559670201297481&id=173744753223363
@@ -863,8 +863,8 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 862,2020-05-25,2020-05-25,32,M,Mangattidam,Kannur,Kannur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
 863,2020-05-25,2020-05-25,34,M,Panur,Kannur,Kannur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
 864,2020-05-25,2020-05-25,28,M,Tellicherry,Kannur,Kannur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
-865,2020-05-25,2020-05-25,49,M,Panur,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
-866,2020-05-25,2020-05-25,73,M,Chokli,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
+865,2020-05-25,2020-05-25,49,M,Panur,Kannur,Kannur,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-06-04,10.0,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
+866,2020-05-25,2020-05-25,73,M,Chokli,Kannur,Kannur,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-06-04,10.0,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
 867,2020-05-25,2020-05-25,35,F,Dharmadom,Kannur,Kannur,Hospitalized,Contact,,,Kannur,654.0,Kerala,India,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
 868,2020-05-25,2020-05-25,36,F,Dharmadom,Kannur,Kannur,Hospitalized,Contact,,,Kannur,654.0,Kerala,India,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
 869,2020-05-25,2020-05-25,36,F,Dharmadom,Kannur,Kannur,Hospitalized,Contact,,,Kannur,654.0,Kerala,India,,,,,,https://kannurvarthakal.in/25/05/2020/35185/#.XsvCoLwzbIU
@@ -887,14 +887,14 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 886,2020-05-25,2020-05-25,31,F,Kidangoor,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/179230696877321
 887,2020-05-25,2020-05-25,52,M,Payyanaman,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/179230696877321
 888,2020-05-25,2020-05-25,42,M,Kuttoor,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/179230696877321
-889,2020-05-25,2020-05-25,Unspecified,M,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Maldives,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560253727905795
-890,2020-05-25,2020-05-25,Unspecified,M,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560253727905795
-891,2020-05-25,2020-05-25,Unspecified,F,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Bangalore,,Other States,India,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560253727905795
+889,2020-05-25,2020-05-25,Unspecified,M,Mavelikkara,Alappuzha,Alappuzha,Discharged,Travel,,,Maldives,,Abroad,Abroad,,,2020-06-05,11.0,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560253727905795
+890,2020-05-25,2020-05-25,Unspecified,M,Chengannur,Alappuzha,Alappuzha,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-06-05,11.0,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560253727905795
+891,2020-05-25,2020-05-25,Unspecified,F,Mavelikkara,Alappuzha,Alappuzha,Discharged,Travel,,,Bangalore,,Other States,India,,,2020-06-05,11.0,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560253727905795
 892,2020-05-25,2020-05-25,38,M,Thevalakkara,Kollam,Kollam,Hospitalized,Travel,,,Delhi,,Other States,India,Kollam P36,,,,,https://www.facebook.com/dckollam/posts/1611288449023361
 893,2020-05-25,2020-05-25,23,F,Karunagappally,Kollam,Kollam,Hospitalized,Travel,,,Muscat,,Abroad,Abroad,Kollam P37,,,,,https://www.facebook.com/dckollam/posts/1611288449023361
 894,2020-05-25,2020-05-25,30,M,Payippad,Kottayam,Kottayam,Discharged,Travel,,,Dubai,,Abroad,Abroad,,,2020-06-02,8.0,,https://www.facebook.com/diokottayam/posts/1161260360897257 https://www.facebook.com/diokottayam/posts/1167455633611063
 895,2020-05-25,2020-05-25,37,M,Vaikkom Irumbazhikkara,Kottayam,Kottayam,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-06-02,8.0,,https://www.facebook.com/diokottayam/posts/1161260360897257 https://www.facebook.com/diokottayam/posts/1167455633611063
-896,2020-05-25,2020-05-25,48,M,Idukki,Idukki,Idukki,Hospitalized,Travel,,,Navi Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=580606396195457&id=230880581168042
+896,2020-05-25,2020-05-25,48,M,Munnar,Idukki,Idukki,Hospitalized,Travel,,,Navi Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=580606396195457&id=230880581168042 https://www.facebook.com/permalink.php?story_fbid=588943062028457&id=230880581168042
 897,2020-05-26,2020-05-26,37,M,Chittoor,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810
 898,2020-05-26,2020-05-26,30,M,Ottappalam,Palakkad,Palakkad,Hospitalized,Travel,,,Gujarat,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810
 899,2020-05-26,2020-05-26,37,M,Pulppully,Palakkad,Palakkad,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810
@@ -959,20 +959,20 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 958,2020-05-26,2020-05-26,38,M,Madikai,Kasaragod,Kasaragod,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://m.facebook.com/story.php?story_fbid=175195847283585&id=100507158085788
 959,2020-05-26,2020-05-26,28,M,Madhur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175195847283585&id=100507158085788
 960,2020-05-26,2020-05-26,25,F,Madhur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175195847283585&id=100507158085788
-961,2020-05-26,2020-05-26,Unspecified,M,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571
+961,2020-05-26,2020-05-26,Unspecified,M,Mavelikkara,Alappuzha,Alappuzha,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-05,10.0,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571
 962,2020-05-26,2020-05-26,Unspecified,M,Thakazhi,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571
 963,2020-05-26,2020-05-26,Unspecified,M,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571
 964,2020-05-27,2020-05-27,40,M,Ponnani,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810
-965,2020-05-27,2020-05-27,34,M,Vorkady,Kasaragod,Kasaragod,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-03,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
+965,2020-05-27,2020-05-27,34,M,Vorkady,Kasaragod,Kasaragod,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-03,7.0,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
 966,2020-05-27,2020-05-27,40,M,Meencha,Kasaragod,Kasaragod,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788
-967,2020-05-27,2020-05-27,22,M,Manjeswaram,Kasaragod,Kasaragod,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-03,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
+967,2020-05-27,2020-05-27,22,M,Manjeswaram,Kasaragod,Kasaragod,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-03,7.0,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
 968,2020-05-27,2020-05-27,47,M,Mangalpady,Kasaragod,Kasaragod,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788
-969,2020-05-27,2020-05-27,28,M,Chemmanad,Kasaragod,Kasaragod,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-03,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
+969,2020-05-27,2020-05-27,28,M,Chemmanad,Kasaragod,Kasaragod,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-03,7.0,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
 970,2020-05-27,2020-05-27,56,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788
 971,2020-05-27,2020-05-27,40,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788
 972,2020-05-27,2020-05-27,56,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788
-973,2020-05-27,2020-05-27,33,M,Chemmanad,Kasaragod,Kasaragod,Discharged,Travel,,,Doha,,Abroad,Abroad,,,2020-06-03,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
-974,2020-05-27,2020-05-27,38,F,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788
+973,2020-05-27,2020-05-27,33,M,Chemmanad,Kasaragod,Kasaragod,Discharged,Travel,,,Doha,,Abroad,Abroad,,,2020-06-03,7.0,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
+974,2020-05-27,2020-05-27,38,F,Uduma,Kasaragod,Kasaragod,Discharged,Travel,,,Sharjah,,Abroad,Abroad,,,2020-06-05,9.0,,https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788
 975,2020-05-27,2020-05-27,45,F,Malapmuzha,Palakkad,Palakkad,Hospitalized,Contact,,838,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/600535473924187
 976,2020-05-27,2020-05-27,28,M,Assam,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/600535473924187
 977,2020-05-27,2020-05-27,47,M,Mundoor,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/600535473924187
@@ -987,7 +987,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 986,2020-05-27,2020-05-27,Unspecified,M,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,
 987,2020-05-27,2020-05-27,Unspecified,F,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,
 988,2020-05-27,2020-05-27,Unspecified,F,Kuttanand,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,
-989,2020-05-27,2020-05-27,42,M,Karunagappalli,Kollam,Kollam,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,Kollam P42,,,,,https://www.facebook.com/dckollam/posts/1612946322190907
+989,2020-05-27,2020-05-27,41,M,Karunagappalli,Kollam,Kollam,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,Kollam P42,,,,,https://www.facebook.com/dckollam/posts/1612946322190907
 990,2020-05-27,2020-05-27,44,F,Panmana,Kollam,Kollam,Hospitalized,Contact,,,Kollam,,Kerala,India,Kollam P43,,,,,https://www.facebook.com/dckollam/posts/1612946322190907
 991,2020-05-27,2020-05-27,22,M,Panmana,Kollam,Kollam,Hospitalized,Contact,,,Kollam,,Kerala,India,Kollam P44,,,,,https://www.facebook.com/dckollam/posts/1612946322190907
 992,2020-05-27,2020-05-27,22,M,Kulathuppuzha,Kollam,Kollam,Hospitalized,Travel,,,New Delhi,,Other States,India,Kollam P45,,,,,https://www.facebook.com/dckollam/posts/1612946322190907
@@ -995,7 +995,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 994,2020-05-27,2020-05-27,37,M,Ranni Pazhavangadi,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/iprdpta/posts/179827716817619
 995,2020-05-27,2020-05-27,32,F,Ranni Pazhavangadi,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/iprdpta/posts/179827716817619
 996,2020-05-27,2020-05-27,53,F,Panamaram,Wayanad,Wayanad,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/prdwayanad/posts/3214911555186907
-997,2020-05-27,2020-05-27,50,M,Panamaram,Wayanad,Wayanad,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/prdwayanad/posts/3214911555186907
+997,2020-05-27,2020-05-27,50,M,Panamaram,Wayanad,Wayanad,Discharged,Travel,,,Mumbai,,Other States,India,,,2020-06-05,9.0,,https://www.facebook.com/prdwayanad/posts/3214911555186907 https://www.facebook.com/wayanadWE/posts/898438983953426
 998,2020-05-27,2020-05-27,25,M,Panamaram,Wayanad,Wayanad,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/prdwayanad/posts/3214911555186907
 999,2020-05-27,2020-05-27,53,M,Koilandi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=2962523767195034&id=1135018129945616
 1000,2020-05-27,2020-05-27,55,F,Mavoor,Kozhikode,Kozhikode,Deceased,Travel,,,Riyadh,,Abroad,Abroad,,,,,2020-05-31,https://www.facebook.com/permalink.php?story_fbid=2962523767195034&id=1135018129945616
@@ -1004,20 +1004,20 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1003,2020-05-27,2020-05-27,45,M,Kottayam Malabar,Kannur,Kannur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://kannurvarthakal.in/27/05/2020/35221/#.Xs5zqLwzbIU
 1004,2020-05-28,2020-05-28,41,M,Paivalike,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1005,2020-05-28,2020-05-28,51,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
-1006,2020-05-28,2020-05-28,54,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
+1006,2020-05-28,2020-05-28,54,M,Kumbala,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-06-05,8.0,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1007,2020-05-28,2020-05-28,39,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1008,2020-05-28,2020-05-28,48,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
-1009,2020-05-28,2020-05-28,38,M,Madhur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
+1009,2020-05-28,2020-05-28,38,M,Madhur,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-06-05,8.0,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1010,2020-05-28,2020-05-28,42,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1011,2020-05-28,2020-05-28,45,M,Paivalike,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
-1012,2020-05-28,2020-05-28,40,M,Mangalpady,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
-1013,2020-05-28,2020-05-28,37,M,Paivalike,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
+1012,2020-05-28,2020-05-28,40,M,Mangalpady,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-06-05,8.0,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
+1013,2020-05-28,2020-05-28,37,M,Paivalike,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-06-05,8.0,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1014,2020-05-28,2020-05-28,29,M,Mangalpady,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
-1015,2020-05-28,2020-05-28,28,M,Mangalpady,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
+1015,2020-05-28,2020-05-28,28,M,Mangalpady,Kasaragod,Kasaragod,Discharged,Travel,,,Maharashtra,,Other States,India,,,2020-06-05,8.0,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1016,2020-05-28,2020-05-28,40,M,Paivalike,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
-1017,2020-05-28,2020-05-28,23,M,Kodom Belur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
+1017,2020-05-28,2020-05-28,23,M,Kodom Belur,Kasaragod,Kasaragod,Discharged,Travel,,,Tamil Nadu,,Other States,India,,,2020-06-05,8.0,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1018,2020-05-28,2020-05-28,48,M,Madikkai,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
-1019,2020-05-28,2020-05-28,31,M,Kuttikkal,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
+1019,2020-05-28,2020-05-28,31,M,Kuttikkol,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1020,2020-05-28,2020-05-28,59,M,Chengala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Sharjah,,Abroad,Abroad,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1021,2020-05-28,2020-05-28,24,F,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788
 1022,2020-05-28,2020-05-28,68,M,Telangana,Thiruvananthapuram,Thiruvananthapuram,Deceased,Travel,,,Rajasthan,,Other States,India,,,,,2020-05-27,https://keralakaumudi.com/en/news/news.php?id=313169&u=
@@ -1047,7 +1047,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1046,2020-05-28,2020-05-28,25,M,Cherupuzha,Kannur,Kannur,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://kannurvarthakal.in/28/05/2020/35236/#.Xs_MgrwzbIV
 1047,2020-05-28,2020-05-28,9,M,Dharmadom,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,Kerala,India,,,,,,https://kannurvarthakal.in/28/05/2020/35236/#.Xs_MgrwzbIV
 1048,2020-05-28,2020-05-28,38,M,Muzhappilangad,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,Kerala,India,,,,,,https://kannurvarthakal.in/28/05/2020/35236/#.Xs_MgrwzbIV
-1049,2020-05-28,2020-05-28,60,M,Parappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,940,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167518134727105
+1049,2020-05-28,2020-05-28,60,M,Parappanangadi,Malappuram,Malappuram,Deceased,Travel,,940,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167518134727105 https://english.manoramaonline.com/news/kerala/2020/06/06/covid-19-death-malappuram-native-manjeri-medical-college.html
 1050,2020-05-28,2020-05-28,30,F,Parappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,940,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167518134727105
 1051,2020-05-28,2020-05-28,3,F,Parappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,940,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167518134727105
 1052,2020-05-28,2020-05-28,0,F,Parappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,940,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167518134727105
@@ -1123,7 +1123,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1122,2020-05-29,2020-05-29,49,M,Thirurangadi,Malappuram,Malappuram,Hospitalized,Travel,,,Riyadh,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167789148033337
 1123,2020-05-29,2020-05-29,36,M,Edakkara,Malappuram,Malappuram,Hospitalized,Travel,,,Riyadh,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167789148033337
 1124,2020-05-29,2020-05-29,25,M,Edavanna,Malappuram,Malappuram,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167789148033337
-1125,2020-05-29,2020-05-29,52,M,Ozhur Omachappuzha,Malappuram,Malappuram,Hospitalized,Travel,,,Bangalore,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167789148033337
+1125,2020-05-29,2020-05-29,52,M,Ozhur Omachappuzha,Malappuram,Malappuram,Discharged,Travel,,,Bangalore,,Other States,India,,,2020-06-04,6.0,,https://www.facebook.com/informationofficemalappuram/posts/167789148033337
 1126,2020-05-29,2020-05-29,35,M,Chembazhanthy,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Muscat,,Abroad,Abroad,,,,,,https://www.facebook.com/collectortvpm/posts/2558328114482714 https://thiruvananthapuramvartha.com/2020/05/29/%e0%b4%a4%e0%b4%bf%e0%b4%b0%e0%b5%81%e0%b4%b5%e0%b4%a8%e0%b4%a8%e0%b5%8d%e0%b4%a4%e0%b4%aa%e0%b5%81%e0%b4%b0%e0%b4%82-%e0%b4%9c%e0%b4%bf%e0%b4%b2%e0%b5%8d%e0%b4%b2%e0%b4%af%e0%b4%bf%e0%b5%bd-%e0%b4%87/
 1127,2020-05-29,2020-05-29,30,M,Mukkudil,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Contact,,,Thiruvananthapuram,,Kerala,India,,,,,,https://www.facebook.com/collectortvpm/posts/2558328114482714 https://thiruvananthapuramvartha.com/2020/05/29/%e0%b4%a4%e0%b4%bf%e0%b4%b0%e0%b5%81%e0%b4%b5%e0%b4%a8%e0%b4%a8%e0%b5%8d%e0%b4%a4%e0%b4%aa%e0%b5%81%e0%b4%b0%e0%b4%82-%e0%b4%9c%e0%b4%bf%e0%b4%b2%e0%b5%8d%e0%b4%b2%e0%b4%af%e0%b4%bf%e0%b5%bd-%e0%b4%87/
 1128,2020-05-29,2020-05-29,50,M,Kalamachal,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Contact,,,Thiruvananthapuram,,Kerala,India,,,,,,https://www.facebook.com/collectortvpm/posts/2558328114482714 https://thiruvananthapuramvartha.com/2020/05/29/%e0%b4%a4%e0%b4%bf%e0%b4%b0%e0%b5%81%e0%b4%b5%e0%b4%a8%e0%b4%a8%e0%b5%8d%e0%b4%a4%e0%b4%aa%e0%b5%81%e0%b4%b0%e0%b4%82-%e0%b4%9c%e0%b4%bf%e0%b4%b2%e0%b5%8d%e0%b4%b2%e0%b4%af%e0%b4%bf%e0%b5%bd-%e0%b4%87/
@@ -1140,7 +1140,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1139,2020-05-29,2020-05-29,Unspecified,M,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Damam,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/562461124351722
 1140,2020-05-29,2020-05-29,Unspecified,M,Ambalappuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/562461124351722
 1141,2020-05-29,2020-05-29,Unspecified,M,Kuttanad,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/562461124351722
-1142,2020-05-29,2020-05-29,62,M,Medppadi,Wayanad,Wayanad,Hospitalized,Travel,,,Unspecified,,Abroad,Abroad,,,,,,https://www.facebook.com/wayanadWE/posts/893996784397646
+1142,2020-05-29,2020-05-29,62,M,Medppadi,Wayanad,Wayanad,Discharged,Travel,,,Unspecified,,Abroad,Abroad,,,2020-06-05,7.0,,https://www.facebook.com/wayanadWE/posts/893996784397646 https://www.facebook.com/wayanadWE/posts/898438983953426
 1143,2020-05-29,2020-05-29,28,M,Poothadi,Wayanad,Wayanad,Hospitalized,Travel,,,Unspecified,,Abroad,Abroad,,,,,,https://www.facebook.com/wayanadWE/posts/893996784397646
 1144,2020-05-29,2020-05-29,22,M,Punalur,Kollam,Kollam,Hospitalized,Travel,,,Mumbai,,Other States,India,Kollam P47,,,,,https://www.facebook.com/dckollam/posts/1614650908687115
 1145,2020-05-29,2020-05-29,48,F,Anchal,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,Kollam P48,,,,,https://www.facebook.com/dckollam/posts/1614650908687115
@@ -1148,7 +1148,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1147,2020-05-29,2020-05-29,41,M,Thodupuzha,Idukki,Idukki,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=583270205929076&id=230880581168042
 1148,2020-05-29,2020-05-29,69,M,Chorodu,Kozhikode,Kozhikode,Hospitalized,Travel,,,Manama,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=2967376123376465&id=1135018129945616&substory_index=0
 1149,2020-05-29,2020-05-29,28,F,Ramanattukara,Kozhikode,Kozhikode,Hospitalized,Travel,,,Unspecified,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/167789148033337
-1150,2020-05-29,2020-05-29,Unspecified,Unspecified,Unspecified,Kannur,Kannur,Hospitalized,Travel,,,Unspecified,,Abroad,Abroad,,,,,,
+1150,2020-05-29,2020-05-29,Unspecified,M,Thillankeri,Kannur,Kannur,Hospitalized,Travel,,,Unspecified,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/district-news/kannur/2020/06/10/kannur-covid-case.html
 1151,2020-05-30,2020-05-30,Unspecified,Unspecified,Kattur,Ernakulam,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3193840884016932
 1152,2020-05-30,2020-05-30,Unspecified,Unspecified,Kattur,Ernakulam,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3193840884016932
 1153,2020-05-30,2020-05-30,Unspecified,Unspecified,Pavaratty,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3193840884016932
@@ -1187,7 +1187,7 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1186,2020-05-30,2020-05-30,42,M,Kothamangalam,Unspecified,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/233008147097016/posts/1015679285496561/
 1187,2020-05-30,2020-05-30,32,M,Parakkadavu,Unspecified,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/233008147097016/posts/1015679285496561/
 1188,2020-05-30,2020-05-30,44,M,Maharashtra,Unspecified,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/233008147097016/posts/1015679285496561/
-1189,2020-05-30,2020-05-30,27,M,Maharashtra,Unspecified,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/233008147097016/posts/1015679285496561/
+1189,2020-05-30,2020-05-30,27,M,Maharashtra,Unspecified,Ernakulam,Discharged,Travel,,,,,,,,,2020-06-05,6.0,,https://www.facebook.com/233008147097016/posts/1015679285496561/
 1190,2020-05-30,2020-05-30,48,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/photo?fbid=2969606256486785&set=a.1135032109944218
 1191,2020-05-30,2020-05-30,48,M,Eramala,Kozhikode,Kozhikode,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/photo?fbid=2969606256486785&set=a.1135032109944218
 1192,2020-05-30,2020-05-30,64,M,Mavoor,Kozhikode,Kozhikode,Hospitalized,Travel,,,Riyadh,,Abroad,Abroad,,,,,,https://www.facebook.com/photo?fbid=2969606256486785&set=a.1135032109944218
@@ -1268,148 +1268,148 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1267,2020-05-31,2020-05-31,36,M,Kallachy Nadapuram,Kozhikode,Kozhikode,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/photo?fbid=2971996856247725&set=a.1135032109944218
 1268,2020-05-31,2020-05-31,23,F,Koduvally,Kozhikode,Kozhikode,Hospitalized,Travel,,1193,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/photo?fbid=2971996856247725&set=a.1135032109944218
 1269,2020-05-31,2020-05-31,46,M,Kothamangalam,Ernakulam,Ernakulam,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/dcekm/posts/1016265058771317
-1270,2020-06-01,2020-06-01,55,M,Thanaloor Pandiyad,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1271,2020-06-01,2020-06-01,52,M,Thanaloor Pandiyad,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1272,2020-06-01,2020-06-01,43,M,Thanaloor Pandiyad,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1273,2020-06-01,2020-06-01,21,M,Thrikkalangodu Elankoor,Malappuram,Malappuram,Hospitalized,Travel,,,Bangalore,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1274,2020-06-01,2020-06-01,26,M,Aalipparambu,Malappuram,Malappuram,Hospitalized,Travel,,,Mangalore,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1275,2020-06-01,2020-06-01,26,F,Thazhekkattu,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1276,2020-06-01,2020-06-01,52,M,Chengarakkulam,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1277,2020-06-01,2020-06-01,42,M,Maranchery,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1278,2020-06-01,2020-06-01,44,M,Vengara AR Nagar,Malappuram,Malappuram,Hospitalized,Travel,,,Jeddah,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1279,2020-06-01,2020-06-01,24,M,Perumbappu,Malappuram,Malappuram,Hospitalized,Travel,,,Moscow,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1280,2020-06-01,2020-06-01,24,M,Ponmundam Kuttipala,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1281,2020-06-01,2020-06-01,33,M,Chelembra,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1282,2020-06-01,2020-06-01,30,M,Nannambra,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1283,2020-06-01,2020-06-01,30,M,AR Nagar,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
-1284,2020-06-01,2020-06-01,38,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1285,2020-06-01,2020-06-01,44,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1286,2020-06-01,2020-06-01,45,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1287,2020-06-01,2020-06-01,36,M,Badiyadukka,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1288,2020-06-01,2020-06-01,29,M,Chemmanad,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1289,2020-06-01,2020-06-01,39,M,Cheruvathur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1290,2020-06-01,2020-06-01,54,M,Mangalpadi,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1291,2020-06-01,2020-06-01,39,M,Mangalpadi,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1292,2020-06-01,2020-06-01,49,M,Meencha,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1293,2020-06-01,2020-06-01,46,M,Meencha,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1294,2020-06-01,2020-06-01,56,M,Meencha,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1295,2020-06-01,2020-06-01,39,M,Paivalige,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1296,2020-06-01,2020-06-01,36,M,Madhur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Doha,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1297,2020-06-01,2020-06-01,3,F,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,1021,Doha,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
-1298,2020-06-01,2020-06-01,32,M,Chavakkad,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1299,2020-06-01,2020-06-01,46,M,Iringalakkuda,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1300,2020-06-01,2020-06-01,27,M,Karalam,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1301,2020-06-01,2020-06-01,38,M,Thrikkoor,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1302,2020-06-01,2020-06-01,28,M,Karalam,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1303,2020-06-01,2020-06-01,17,M,Kunnamkulam,Thrissur,Thrissur,Hospitalized,Travel,,,Doha,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1304,2020-06-01,2020-06-01,59,M,Mathilakam,Thrissur,Thrissur,Hospitalized,Travel,,,Doha,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1305,2020-06-01,2020-06-01,29,M,Punnayoorkulam,Thrissur,Thrissur,Hospitalized,Travel,,,Doha,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1306,2020-06-01,2020-06-01,17,M,Kunnamkulam,Thrissur,Thrissur,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
-1307,2020-06-01,2020-06-01,40,M,Thrikkovilvattom,Kollam,Kollam,Hospitalized,Travel,,,Abu Dhabi,,,,,,,,,https://epaper.deshabhimani.com/c/52428474
-1308,2020-06-01,2020-06-01,39,F,Ittiva,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://epaper.deshabhimani.com/c/52428474
-1309,2020-06-01,2020-06-01,41,F,Anchal,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://epaper.deshabhimani.com/c/52428474
-1310,2020-06-01,2020-06-01,45,F,Kunnikode,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://epaper.deshabhimani.com/c/52428474
-1311,2020-06-01,2020-06-01,51,M,Thrikkaruva Prakkulam,Kollam,Kollam,Hospitalized,Travel,,,Manama,,,,,,,,,https://epaper.deshabhimani.com/c/52428474
-1312,2020-06-01,2020-06-01,26,F,Kulanada,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Manama,,,,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
-1313,2020-06-01,2020-06-01,30,F,Manthuka,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
-1314,2020-06-01,2020-06-01,36,F,Kadampanad,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
-1315,2020-06-01,2020-06-01,26,M,Cherukol,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
-1316,2020-06-01,2020-06-01,28,M,Pothencode,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Maharashtra,,,,,,,,,https://epaper.deshabhimani.com/c/52428117
-1317,2020-06-01,2020-06-01,26,M,Nalanchira,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,UAE,,,,,,,,,https://epaper.deshabhimani.com/c/52428117
-1318,2020-06-01,2020-06-01,55,M,Perunguzhy,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Chennai,,,,,,,,,https://epaper.deshabhimani.com/c/52428117
-1319,2020-06-01,2020-06-01,38,F,Kuruppanpady,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://www.facebook.com/dioekm/posts/1600660283429285
-1320,2020-06-01,2020-06-01,49,M,Thevara,Ernakulam,Ernakulam,Hospitalized,Travel,,,Middle East,,,,,,,,,https://www.facebook.com/dioekm/posts/1600660283429285
-1321,2020-06-01,2020-06-01,31,M,Palarivattom,Ernakulam,Ernakulam,Hospitalized,Travel,,,Mumbai,,,,,,,,,https://www.facebook.com/dioekm/posts/1600660283429285
-1322,2020-06-01,2020-06-01,50,F,Arthunkal,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/564123190852182
-1323,2020-06-01,2020-06-01,Unspecified,F,Neelamperur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Delhi,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/564123190852182
-1324,2020-06-01,2020-06-01,38,M,Perumatty,Palakkad,Palakkad,Hospitalized,Travel,,,Mysore,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/603481563629578
-1325,2020-06-01,2020-06-01,51,F,Palakkad,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/603481563629578
-1326,2020-06-01,2020-06-01,29,F,Calvary Mount,Idukki,Idukki,Hospitalized,Travel,,,Delhi,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=585271129062317&id=230880581168042
-1327,2020-06-02,2020-06-02,0,F,Porur Chathangottupuram,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1328,2020-06-02,2020-06-02,46,M,Kalady,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1329,2020-06-02,2020-06-02,26,F,Vengara,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1330,2020-06-02,2020-06-02,36,M,Anakkayam,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1331,2020-06-02,2020-06-02,54,M,Pulikkal Olavattur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1332,2020-06-02,2020-06-02,68,M,Thalakkad,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1333,2020-06-02,2020-06-02,43,M,Kuttippuram,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1334,2020-06-02,2020-06-02,30,M,Pulikkal,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1335,2020-06-02,2020-06-02,64,M,Paravanna,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1336,2020-06-02,2020-06-02,38,F,Kadalundinagaram,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1337,2020-06-02,2020-06-02,43,M,Thirurangadi,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1338,2020-06-02,2020-06-02,40,M,Gudalur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1339,2020-06-02,2020-06-02,70,M,Moothedam,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1340,2020-06-02,2020-06-02,35,M,Chemmad,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1341,2020-06-02,2020-06-02,22,M,Manjeri,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
-1342,2020-06-02,2020-06-02,Unspecified,M,Pandanad,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1343,2020-06-02,2020-06-02,Unspecified,M,Muthukkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1344,2020-06-02,2020-06-02,Unspecified,M,Thazhakkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1345,2020-06-02,2020-06-02,Unspecified,M,Mannar,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1346,2020-06-02,2020-06-02,51,M,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1347,2020-06-02,2020-06-02,Unspecified,M,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1348,2020-06-02,2020-06-02,Unspecified,F,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1349,2020-06-02,2020-06-02,Unspecified,M,Chingoli,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1350,2020-06-02,2020-06-02,Unspecified,F,Kadakkarappalli,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1351,2020-06-02,2020-06-02,Unspecified,F,Mannanchery,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,
-1352,2020-06-02,2020-06-02,62,M,Puthigai,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1353,2020-06-02,2020-06-02,60,M,Padne,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1354,2020-06-02,2020-06-02,41,M,Kumbadage,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1355,2020-06-02,2020-06-02,32,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1356,2020-06-02,2020-06-02,43,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1357,2020-06-02,2020-06-02,47,M,Ajanur,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1358,2020-06-02,2020-06-02,7,M,Ajanur,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1359,2020-06-02,2020-06-02,20,M,Pallikkare,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1360,2020-06-02,2020-06-02,28,M,Kinalur Karinthalam,Kasaragod,Kasaragod,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
-1361,2020-06-02,2020-06-02,1,M,Pattazhy Vadakkekkara,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1362,2020-06-02,2020-06-02,28,F,Pattazhy Vadakkekkara,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1363,2020-06-02,2020-06-02,39,M,Chavara,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1364,2020-06-02,2020-06-02,50,M,Thrikkovilvattom,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1365,2020-06-02,2020-06-02,41,M,Pathanapuram,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1366,2020-06-02,2020-06-02,32,M,Karukon,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1367,2020-06-02,2020-06-02,Unspecified,F,Pattazhy,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1368,2020-06-02,2020-06-02,35,F,Kottarakkara,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,
-1369,2020-06-02,2020-06-02,77,M,Nalanchira,Thiruvananthapuram,Thiruvananthapuram,Deceased,Contact,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455911
-1370,2020-06-02,2020-06-02,35,M,Marianad,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455911
-1371,2020-06-02,2020-06-02,48,M,Kallara,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455911
-1372,2020-06-02,2020-06-02,39,M,Attingal,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455911
-1373,2020-06-02,2020-06-02,45,M,Vallakkadavu,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455911
-1374,2020-06-02,2020-06-02,53,M,Venjarammood,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455911
-1375,2020-06-02,2020-06-02,38,F,Puthanthopp,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455911
-1376,2020-06-02,2020-06-02,36,F,Panachikkad Kuzhimattom,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
-1377,2020-06-02,2020-06-02,32,F,Manjoor,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
-1378,2020-06-02,2020-06-02,31,F,Erumeli,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
-1379,2020-06-02,2020-06-02,30,F,Panachikkad,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
-1380,2020-06-02,2020-06-02,27,F,Pariyaram,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
-1381,2020-06-02,2020-06-02,82,M,Edayirikkappuzha,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
-1382,2020-06-02,2020-06-02,54,M,Guruvayur,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
-1383,2020-06-02,2020-06-02,25,M,Annamanada,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
-1384,2020-06-02,2020-06-02,43,M,Andathodu,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
-1385,2020-06-02,2020-06-02,41,M,Andathodu,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
-1386,2020-06-02,2020-06-02,45,M,Poothol,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
-1387,2020-06-02,2020-06-02,54,M,Kunnamkulam,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
-1388,2020-06-02,2020-06-02,Unspecified,F,Thalappuzha,Wayanad,Wayanad,Hospitalized,Contact,,,,,,,,,,,,http://opennewser.com/home/get_news/26617
-1389,2020-06-02,2020-06-02,24,F,Meenangadi Krishnagiri,Wayanad,Wayanad,Hospitalized,Contact,,,,,,,,,,,,http://opennewser.com/home/get_news/26617
-1390,2020-06-02,2020-06-02,Unspecified,M,West Bengal,Wayanad,Wayanad,Hospitalized,Contact,,,,,,,,,,,,http://opennewser.com/home/get_news/26617
-1391,2020-06-02,2020-06-02,Unspecified,M,West Bengal,Wayanad,Wayanad,Hospitalized,Contact,,,,,,,,,,,,http://opennewser.com/home/get_news/26617
-1392,2020-06-02,2020-06-02,Unspecified,M,West Bengal,Wayanad,Wayanad,Hospitalized,Contact,,,,,,,,,,,,http://opennewser.com/home/get_news/26617
-1393,2020-06-02,2020-06-02,Unspecified,M,Odisha,Wayanad,Wayanad,Hospitalized,Contact,,,,,,,,,,,,http://opennewser.com/home/get_news/26617
-1394,2020-06-02,2020-06-02,23,M,Alanallur,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
-1395,2020-06-02,2020-06-02,23,M,Bangalore,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
-1396,2020-06-02,2020-06-02,22,M,Thachampara,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
-1397,2020-06-02,2020-06-02,61,M,Kollangode,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
-1398,2020-06-02,2020-06-02,51,F,Peruvembu,Palakkad,Palakkad,Hospitalized,Contact,,,,,,,,,,,,https://epaper.deshabhimani.com/c/52455800
-1399,2020-06-02,2020-06-02,48,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
-1400,2020-06-02,2020-06-02,48,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
-1401,2020-06-02,2020-06-02,23,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
-1402,2020-06-02,2020-06-02,24,M,Koorachund,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
-1403,2020-06-02,2020-06-02,43,M,Narippatta,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
-1404,2020-06-02,2020-06-02,45,M,Kadannappally,Kannur,Kannur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
-1405,2020-06-02,2020-06-02,25,M,Kannapuram,Kannur,Kannur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
-1406,2020-06-02,2020-06-02,67,M,Mundery,Kannur,Kannur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
-1407,2020-06-02,2020-06-02,57,M,Mundery,Kannur,Kannur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
-1408,2020-06-02,2020-06-02,27,F,Dharmadom,Kannur,Kannur,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
-1409,2020-06-02,2020-06-02,56,M,Keezhmad,Ernakulam,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1601476646680982
-1410,2020-06-02,2020-06-02,35,M,Chengamanad,Ernakulam,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1601476646680982
-1411,2020-06-02,2020-06-02,34,M,Alangad,Ernakulam,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1601476646680982
+1270,2020-06-01,2020-06-01,55,M,Thanaloor Pandiyad,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1271,2020-06-01,2020-06-01,52,M,Thanaloor Pandiyad,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1272,2020-06-01,2020-06-01,43,M,Thanaloor Pandiyad,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1273,2020-06-01,2020-06-01,21,M,Thrikkalangodu Elankoor,Malappuram,Malappuram,Hospitalized,Travel,,,Bangalore,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1274,2020-06-01,2020-06-01,26,M,Aalipparambu,Malappuram,Malappuram,Hospitalized,Travel,,,Mangalore,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1275,2020-06-01,2020-06-01,26,F,Thazhekkattu,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1276,2020-06-01,2020-06-01,52,M,Chengarakkulam,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1277,2020-06-01,2020-06-01,42,M,Maranchery,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1278,2020-06-01,2020-06-01,44,M,Vengara AR Nagar,Malappuram,Malappuram,Hospitalized,Travel,,,Jeddah,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1279,2020-06-01,2020-06-01,24,M,Perumbappu,Malappuram,Malappuram,Hospitalized,Travel,,,Moscow,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1280,2020-06-01,2020-06-01,24,M,Ponmundam Kuttipala,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1281,2020-06-01,2020-06-01,33,M,Chelembra,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1282,2020-06-01,2020-06-01,30,M,Nannambra,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1283,2020-06-01,2020-06-01,30,M,AR Nagar,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168590111286574
+1284,2020-06-01,2020-06-01,38,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1285,2020-06-01,2020-06-01,44,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1286,2020-06-01,2020-06-01,45,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1287,2020-06-01,2020-06-01,36,M,Badiyadukka,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1288,2020-06-01,2020-06-01,29,M,Chemmanad,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1289,2020-06-01,2020-06-01,39,M,Cheruvathur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1290,2020-06-01,2020-06-01,54,M,Mangalpadi,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1291,2020-06-01,2020-06-01,39,M,Mangalpadi,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1292,2020-06-01,2020-06-01,49,M,Meencha,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1293,2020-06-01,2020-06-01,46,M,Meencha,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1294,2020-06-01,2020-06-01,56,M,Meencha,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1295,2020-06-01,2020-06-01,39,M,Paivalige,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashta,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1296,2020-06-01,2020-06-01,36,M,Madhur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1297,2020-06-01,2020-06-01,3,F,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,1021,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788
+1298,2020-06-01,2020-06-01,32,M,Chavakkad,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1299,2020-06-01,2020-06-01,46,M,Iringalakkuda,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1300,2020-06-01,2020-06-01,27,M,Karalam,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1301,2020-06-01,2020-06-01,38,M,Thrikkoor,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1302,2020-06-01,2020-06-01,28,M,Karalam,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1303,2020-06-01,2020-06-01,17,M,Kunnamkulam,Thrissur,Thrissur,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1304,2020-06-01,2020-06-01,59,M,Mathilakam,Thrissur,Thrissur,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1305,2020-06-01,2020-06-01,29,M,Punnayoorkulam,Thrissur,Thrissur,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1306,2020-06-01,2020-06-01,17,M,Kunnamkulam,Thrissur,Thrissur,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3198829060184781
+1307,2020-06-01,2020-06-01,40,M,Thrikkovilvattom,Kollam,Kollam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52428474
+1308,2020-06-01,2020-06-01,39,F,Ittiva,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52428474
+1309,2020-06-01,2020-06-01,41,F,Anchal,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52428474
+1310,2020-06-01,2020-06-01,45,F,Kunnikode,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52428474
+1311,2020-06-01,2020-06-01,51,M,Thrikkaruva Prakkulam,Kollam,Kollam,Hospitalized,Travel,,,Manama,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52428474
+1312,2020-06-01,2020-06-01,26,F,Kulanada,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Manama,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
+1313,2020-06-01,2020-06-01,30,F,Manthuka,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
+1314,2020-06-01,2020-06-01,36,F,Kadampanad,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
+1315,2020-06-01,2020-06-01,26,M,Cherukol,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/181241606676230
+1316,2020-06-01,2020-06-01,28,M,Pothencode,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://epaper.deshabhimani.com/c/52428117
+1317,2020-06-01,2020-06-01,26,M,Nalanchira,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52428117
+1318,2020-06-01,2020-06-01,55,M,Perunguzhy,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://epaper.deshabhimani.com/c/52428117
+1319,2020-06-01,2020-06-01,38,F,Kuruppanpady,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/dioekm/posts/1600660283429285
+1320,2020-06-01,2020-06-01,49,M,Thevara,Ernakulam,Ernakulam,Hospitalized,Travel,,,Middle East,,Abroad,Abroad,,,,,,https://www.facebook.com/dioekm/posts/1600660283429285
+1321,2020-06-01,2020-06-01,31,M,Palarivattom,Ernakulam,Ernakulam,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/dioekm/posts/1600660283429285
+1322,2020-06-01,2020-06-01,50,F,Arthunkal,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/564123190852182
+1323,2020-06-01,2020-06-01,Unspecified,F,Neelamperur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/564123190852182
+1324,2020-06-01,2020-06-01,38,M,Perumatty,Palakkad,Palakkad,Hospitalized,Travel,,,Mysore,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/603481563629578
+1325,2020-06-01,2020-06-01,51,F,Palakkad,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/603481563629578
+1326,2020-06-01,2020-06-01,29,F,Calvary Mount,Idukki,Idukki,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=585271129062317&id=230880581168042
+1327,2020-06-02,2020-06-02,0,F,Porur Chathangottupuram,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1328,2020-06-02,2020-06-02,46,M,Kalady,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1329,2020-06-02,2020-06-02,26,F,Vengara,Malappuram,Malappuram,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1330,2020-06-02,2020-06-02,36,M,Anakkayam,Malappuram,Malappuram,Hospitalized,Travel,,,Riyadh,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1331,2020-06-02,2020-06-02,54,M,Pulikkal Olavattur,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1332,2020-06-02,2020-06-02,68,M,Thalakkad,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1333,2020-06-02,2020-06-02,43,M,Kuttippuram,Malappuram,Malappuram,Hospitalized,Travel,,,Ahmedabad,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1334,2020-06-02,2020-06-02,30,M,Pulikkal,Malappuram,Malappuram,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1335,2020-06-02,2020-06-02,64,M,Paravanna,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1336,2020-06-02,2020-06-02,38,F,Kadalundinagaram,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1337,2020-06-02,2020-06-02,43,M,Thirurangadi,Malappuram,Malappuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1338,2020-06-02,2020-06-02,40,M,Gudalur,Malappuram,Malappuram,Hospitalized,Travel,,,Gudalur,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1339,2020-06-02,2020-06-02,70,M,Moothedam,Malappuram,Malappuram,Hospitalized,Contact,,,Malappuram,,Kerala,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1340,2020-06-02,2020-06-02,35,M,Chemmad,Malappuram,Malappuram,Hospitalized,Contact,,,Malappuram,,Kerala,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1341,2020-06-02,2020-06-02,22,M,Manjeri,Malappuram,Malappuram,Hospitalized,Contact,,,Malappuram,,Kerala,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/168846261260959
+1342,2020-06-02,2020-06-02,Unspecified,M,Pandanad,Alappuzha,Alappuzha,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,
+1343,2020-06-02,2020-06-02,Unspecified,M,Muthukkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,
+1344,2020-06-02,2020-06-02,Unspecified,M,Thazhakkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,
+1345,2020-06-02,2020-06-02,Unspecified,M,Mannar,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+1346,2020-06-02,2020-06-02,51,M,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+1347,2020-06-02,2020-06-02,Unspecified,M,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Pune,,Other States,India,,,,,,
+1348,2020-06-02,2020-06-02,Unspecified,F,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Pune,,Other States,India,,,,,,
+1349,2020-06-02,2020-06-02,Unspecified,M,Chingoli,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+1350,2020-06-02,2020-06-02,Unspecified,F,Kadakkarappalli,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+1351,2020-06-02,2020-06-02,Unspecified,F,Mannanchery,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+1352,2020-06-02,2020-06-02,62,M,Puthigai,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1353,2020-06-02,2020-06-02,60,M,Padne,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1354,2020-06-02,2020-06-02,41,M,Kumbadage,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1355,2020-06-02,2020-06-02,32,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1356,2020-06-02,2020-06-02,43,M,Kumbala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1357,2020-06-02,2020-06-02,47,M,Ajanur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1358,2020-06-02,2020-06-02,7,M,Ajanur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1359,2020-06-02,2020-06-02,20,M,Pallikkare,Kasaragod,Kasaragod,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1360,2020-06-02,2020-06-02,28,M,Kinalur Karinthalam,Kasaragod,Kasaragod,Hospitalized,Contact,,,Kasaragod,,Kerala,India,,,,,,https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788
+1361,2020-06-02,2020-06-02,1,M,Pattazhy Vadakkekkara,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+1362,2020-06-02,2020-06-02,28,F,Pattazhy Vadakkekkara,Kollam,Kollam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,
+1363,2020-06-02,2020-06-02,39,M,Chavara,Kollam,Kollam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,
+1364,2020-06-02,2020-06-02,50,M,Thrikkovilvattom,Kollam,Kollam,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,
+1365,2020-06-02,2020-06-02,41,M,Pathanapuram,Kollam,Kollam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,
+1366,2020-06-02,2020-06-02,32,M,Karukon,Kollam,Kollam,Hospitalized,Travel,,,Saudi Arabia,,Abroad,Abroad,,,,,,
+1367,2020-06-02,2020-06-02,Unspecified,F,Pattazhy,Kollam,Kollam,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,
+1368,2020-06-02,2020-06-02,35,F,Kottarakkara,Kollam,Kollam,Hospitalized,Travel,,,,,Abroad,Abroad,,,,,,
+1369,2020-06-02,2020-06-02,77,M,Nalanchira,Thiruvananthapuram,Thiruvananthapuram,Deceased,Contact,,,Thiruvananthapuram,,Kerala,India,,,,,,https://epaper.deshabhimani.com/c/52455911
+1370,2020-06-02,2020-06-02,35,M,Marianad,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52455911
+1371,2020-06-02,2020-06-02,48,M,Kallara,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52455911
+1372,2020-06-02,2020-06-02,39,M,Attingal,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52455911
+1373,2020-06-02,2020-06-02,45,M,Vallakkadavu,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52455911
+1374,2020-06-02,2020-06-02,53,M,Venjarammood,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52455911
+1375,2020-06-02,2020-06-02,38,F,Puthanthopp,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52455911
+1376,2020-06-02,2020-06-02,36,F,Panachikkad Kuzhimattom,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
+1377,2020-06-02,2020-06-02,32,F,Manjoor,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
+1378,2020-06-02,2020-06-02,31,F,Erumeli,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
+1379,2020-06-02,2020-06-02,30,F,Panachikkad,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
+1380,2020-06-02,2020-06-02,27,F,Pariyaram,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
+1381,2020-06-02,2020-06-02,82,M,Edayirikkappuzha,Kottayam,Kottayam,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
+1382,2020-06-02,2020-06-02,54,M,Guruvayur,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
+1383,2020-06-02,2020-06-02,25,M,Annamanada,Thrissur,Thrissur,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
+1384,2020-06-02,2020-06-02,43,M,Andathodu,Thrissur,Thrissur,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
+1385,2020-06-02,2020-06-02,41,M,Andathodu,Thrissur,Thrissur,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
+1386,2020-06-02,2020-06-02,45,M,Poothol,Thrissur,Thrissur,Hospitalized,Travel,,,Rajasthan,,Other States,India,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
+1387,2020-06-02,2020-06-02,54,M,Kunnamkulam,Thrissur,Thrissur,Hospitalized,Travel,,,Bangalore,,Other States,India,,,,,,https://www.facebook.com/prdthrissur/posts/3201329016601452
+1388,2020-06-02,2020-06-02,Unspecified,F,Thalappuzha,Wayanad,Wayanad,Hospitalized,Contact,,,Wayanad,,Kerala,India,,,,,,http://opennewser.com/home/get_news/26617
+1389,2020-06-02,2020-06-02,24,F,Meenangadi Krishnagiri,Wayanad,Wayanad,Hospitalized,Contact,,,Wayanad,,Kerala,India,,,,,,http://opennewser.com/home/get_news/26617
+1390,2020-06-02,2020-06-02,Unspecified,M,West Bengal,Wayanad,Wayanad,Hospitalized,Contact,,,Wayanad,,Kerala,India,,,,,,http://opennewser.com/home/get_news/26617
+1391,2020-06-02,2020-06-02,Unspecified,M,West Bengal,Wayanad,Wayanad,Hospitalized,Contact,,,Wayanad,,Kerala,India,,,,,,http://opennewser.com/home/get_news/26617
+1392,2020-06-02,2020-06-02,Unspecified,M,West Bengal,Wayanad,Wayanad,Hospitalized,Contact,,,Wayanad,,Kerala,India,,,,,,http://opennewser.com/home/get_news/26617
+1393,2020-06-02,2020-06-02,Unspecified,M,Odisha,Wayanad,Wayanad,Hospitalized,Contact,,,Wayanad,,Kerala,India,,,,,,http://opennewser.com/home/get_news/26617
+1394,2020-06-02,2020-06-02,23,M,Alanallur,Palakkad,Palakkad,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
+1395,2020-06-02,2020-06-02,23,M,Bangalore,Palakkad,Palakkad,Hospitalized,Travel,,,Bangalore,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
+1396,2020-06-02,2020-06-02,22,M,Thachampara,Palakkad,Palakkad,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
+1397,2020-06-02,2020-06-02,61,M,Kollangode,Palakkad,Palakkad,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604062296904838
+1398,2020-06-02,2020-06-02,51,F,Peruvembu,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://epaper.deshabhimani.com/c/52455800
+1399,2020-06-02,2020-06-02,48,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
+1400,2020-06-02,2020-06-02,48,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
+1401,2020-06-02,2020-06-02,23,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Mangalore,,Other States,India,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
+1402,2020-06-02,2020-06-02,24,M,Koorachund,Kozhikode,Kozhikode,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
+1403,2020-06-02,2020-06-02,43,M,Narippatta,Kozhikode,Kozhikode,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/photo?fbid=2976915835755827&set=a.1135032109944218
+1404,2020-06-02,2020-06-02,45,M,Kadannappally,Kannur,Kannur,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
+1405,2020-06-02,2020-06-02,25,M,Kannapuram,Kannur,Kannur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
+1406,2020-06-02,2020-06-02,67,M,Mundery,Kannur,Kannur,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
+1407,2020-06-02,2020-06-02,57,M,Mundery,Kannur,Kannur,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
+1408,2020-06-02,2020-06-02,27,F,Dharmadom,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,Kerala,India,,,,,,https://www.facebook.com/InformationOfficeKannur/posts/2585901741670070
+1409,2020-06-02,2020-06-02,56,M,Keezhmad,Ernakulam,Ernakulam,Discharged,Travel,,,Abu Dhabi,,Abroad,Abroad,,,2020-06-05,3.0,,https://www.facebook.com/dioekm/posts/1601476646680982
+1410,2020-06-02,2020-06-02,35,M,Chengamanad,Ernakulam,Ernakulam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/dioekm/posts/1601476646680982
+1411,2020-06-02,2020-06-02,34,M,Alangad,Ernakulam,Ernakulam,Hospitalized,Travel,,,Salalah,,Abroad,Abroad,,,,,,https://www.facebook.com/dioekm/posts/1601476646680982
 1412,2020-06-02,2020-06-02,30,M,Payyanaman,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/181517429981981
 1413,2020-06-03,2020-06-03,48,F,Kadakampally,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/2699142/Thiruvananthapuram/Thiruvananthapuram-4th-June-2020#page/2/2
 1414,2020-06-03,2020-06-03,48,F,Malayinkizh,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/2699142/Thiruvananthapuram/Thiruvananthapuram-4th-June-2020#page/2/2
@@ -1425,71 +1425,276 @@ patient_number,date_announced,date_added,age_bracket,gender,residence_city_or_di
 1424,2020-06-03,2020-06-03,56,M,Vallakkadavu,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/2699142/Thiruvananthapuram/Thiruvananthapuram-4th-June-2020#page/2/2
 1425,2020-06-03,2020-06-03,29,M,Neyyattinkara,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/2699142/Thiruvananthapuram/Thiruvananthapuram-4th-June-2020#page/2/2
 1426,2020-06-03,2020-06-03,21,M,Kattayikkonam,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,,,,,,,,,,https://epaper.deshabhimani.com/2699142/Thiruvananthapuram/Thiruvananthapuram-4th-June-2020#page/2/2
-1427,2020-06-03,2020-06-03,3,F,Mangada,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1428,2020-06-03,2020-06-03,61,M,Ponmundam,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1429,2020-06-03,2020-06-03,26,F,Ponnani,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1430,2020-06-03,2020-06-03,36,M,Ozhur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1431,2020-06-03,2020-06-03,57,M,Puzhakkattiri,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1432,2020-06-03,2020-06-03,58,M,Pandikkad,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1433,2020-06-03,2020-06-03,35,M,Porur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1434,2020-06-03,2020-06-03,20,M,Maranchery,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1435,2020-06-03,2020-06-03,34,M,Vengara,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1436,2020-06-03,2020-06-03,24,M,Edayur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1437,2020-06-03,2020-06-03,38,M,Melmuri,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
-1438,2020-06-03,2020-06-03,31,M,Calvary Mount,Idukki,Idukki,Hospitalized,Travel,,1326,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1439,2020-06-03,2020-06-03,54,F,Calvary Mount,Idukki,Idukki,Hospitalized,Travel,,1326,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1440,2020-06-03,2020-06-03,32,F,Pambadumpara,Idukki,Idukki,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1441,2020-06-03,2020-06-03,37,M,Thodupuzha,Idukki,Idukki,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1442,2020-06-03,2020-06-03,47,F,Kattappana,Idukki,Idukki,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1443,2020-06-03,2020-06-03,34,F,Devikulam,Idukki,Idukki,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1444,2020-06-03,2020-06-03,35,F,Peerumade,Idukki,Idukki,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1445,2020-06-03,2020-06-03,35,F,Peerumade Pambanar,Idukki,Idukki,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1446,2020-06-03,2020-06-03,25,F,Kattappana,Idukki,Idukki,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
-1447,2020-06-03,2020-06-03,54,M,Thekkethukavala,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
-1448,2020-06-03,2020-06-03,40,F,Ettumanur,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
-1449,2020-06-03,2020-06-03,51,F,Arppukkara,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
-1450,2020-06-03,2020-06-03,30,F,Payippadu,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
-1451,2020-06-03,2020-06-03,56,F,Changanassery,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
-1452,2020-06-03,2020-06-03,37,M,Kurampanadam,Kottayam,Kottayam,Hospitalized,Contact,,1451,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
-1453,2020-06-03,2020-06-03,33,M,Perunna,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
-1454,2020-06-03,2020-06-03,29,F,Kuravilangad,Kottayam,Kottayam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
-1455,2020-06-03,2020-06-03,Unspecified,M,Mararikkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
-1456,2020-06-03,2020-06-03,Unspecified,F,Mararikkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
-1457,2020-06-03,2020-06-03,Unspecified,F,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
-1458,2020-06-03,2020-06-03,Unspecified,F,Alappuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
-1459,2020-06-03,2020-06-03,Unspecified,F,Mavelikkara Thekkekkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
-1460,2020-06-03,2020-06-03,Unspecified,F,Cherthala,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
-1461,2020-06-03,2020-06-03,Unspecified,F,Alappuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
-1462,2020-06-03,2020-06-03,42,M,Maniyoor,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
-1463,2020-06-03,2020-06-03,46,M,Maniyoor,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
-1464,2020-06-03,2020-06-03,42,M,Vadakara,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
-1465,2020-06-03,2020-06-03,42,M,Atholi,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803249
-1466,2020-06-03,2020-06-03,39,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803250
-1467,2020-06-03,2020-06-03,34,M,Kavilumpara,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803251
-1468,2020-06-03,2020-06-03,31,F,Elettil,Kozhikode,Kozhikode,Hospitalized,Contact,,,,,,,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
-1469,2020-06-03,2020-06-03,62,M,Koppam,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
-1470,2020-06-03,2020-06-03,35,M,Valiyapadam,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
-1471,2020-06-03,2020-06-03,47,M,Kappur,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
-1472,2020-06-03,2020-06-03,47,M,Puthunagaram,Palakkad,Palakkad,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
-1473,2020-06-03,2020-06-03,47,M,Elappulli,Palakkad,Palakkad,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
-1474,2020-06-03,2020-06-03,31,M,Punalur,Kollam,Kollam,Hospitalized,Contact,,,,,,,Kollam P72,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
-1475,2020-06-03,2020-06-03,40,F,Anchal,Kollam,Kollam,Hospitalized,Contact,,,,,,,Kollam P72,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
-1476,2020-06-03,2020-06-03,40,F,Kadakkal,Kollam,Kollam,Hospitalized,Contact,,,,,,,Kollam P74,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
-1477,2020-06-03,2020-06-03,36,M,Kadkakal Missionkunnu,Kollam,Kollam,Hospitalized,Contact,,,,,,,Kollam P75,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
-1478,2020-06-03,2020-06-03,81,F,Pallimmukku,Kollam,Kollam,Hospitalized,Contact,,,,,,,Kollam P76,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
-1479,2020-06-03,2020-06-03,30,M,Ayyambilly,Ernakulam,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
-1480,2020-06-03,2020-06-03,50,F,Chullikkal,Ernakulam,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
-1481,2020-06-03,2020-06-03,28,F,Pallarimangalam,Ernakulam,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
-1482,2020-06-03,2020-06-03,26,M,Panayikulam,Ernakulam,Ernakulam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
-1483,2020-06-03,2020-06-03,Unspecified,F,Unspecified,Ernakulam,Ernakulam,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
-1484,2020-06-03,2020-06-03,54,M,Karikkodu,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
-1485,2020-06-03,2020-06-03,51,M,Ganeshamangalam,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
-1486,2020-06-03,2020-06-03,36,M,Karuvannur,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
-1487,2020-06-03,2020-06-03,34,F,Kallur,Thrissur,Thrissur,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
-1488,2020-06-03,2020-06-03,30,M,Kanhangad,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
-1489,2020-06-03,2020-06-03,27,M,Cheruvathur,Kasaragod,Kasaragod,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
-1490,2020-06-03,2020-06-03,34,F,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
-1491,2020-06-03,2020-06-03,42,M,Dharmadom,Kannur,Kannur,Hospitalized,Travel,,,,,,,,,,,,https://kannurvarthakal.in/03/06/2020/35372/#.XtfId7wzbIU
-1492,2020-06-03,2020-06-03,35,M,Thalasserry,Kannur,Kannur,Hospitalized,Contact,,,,,,,,,,,,https://kannurvarthakal.in/03/06/2020/35372/#.XtfId7wzbIU
-1493,2020-06-03,2020-06-03,27,F,Koodal,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/181881853278872
-1494,2020-06-03,2020-06-03,27,M,Kumbazha,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/181881853278872
+1427,2020-06-03,2020-06-03,3,F,Mangada,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1428,2020-06-03,2020-06-03,61,M,Ponmundam,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1429,2020-06-03,2020-06-03,26,F,Ponnani,Malappuram,Malappuram,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1430,2020-06-03,2020-06-03,36,M,Ozhur,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1431,2020-06-03,2020-06-03,57,M,Puzhakkattiri,Malappuram,Malappuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1432,2020-06-03,2020-06-03,58,M,Pandikkad,Malappuram,Malappuram,Hospitalized,Travel,,,Jordan,,Abroad,Abroad,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1433,2020-06-03,2020-06-03,35,M,Porur,Malappuram,Malappuram,Hospitalized,Travel,,,Bangalore,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1434,2020-06-03,2020-06-03,20,M,Maranchery,Malappuram,Malappuram,Hospitalized,Travel,,,Bangalore,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1435,2020-06-03,2020-06-03,34,M,Vengara,Malappuram,Malappuram,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1436,2020-06-03,2020-06-03,24,M,Edayur,Malappuram,Malappuram,Hospitalized,Travel,,,Coimbatore,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1437,2020-06-03,2020-06-03,38,M,Melmuri,Malappuram,Malappuram,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169149241230661
+1438,2020-06-03,2020-06-03,31,M,Calvary Mount,Idukki,Idukki,Hospitalized,Travel,,1326,Delhi,,Other States,India,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1439,2020-06-03,2020-06-03,54,F,Calvary Mount,Idukki,Idukki,Hospitalized,Travel,,1326,Delhi,,Other States,India,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1440,2020-06-03,2020-06-03,32,F,Pambadumpara,Idukki,Idukki,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1441,2020-06-03,2020-06-03,37,M,Thodupuzha,Idukki,Idukki,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1442,2020-06-03,2020-06-03,47,F,Kattappana,Idukki,Idukki,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1443,2020-06-03,2020-06-03,34,F,Devikulam,Idukki,Idukki,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1444,2020-06-03,2020-06-03,35,F,Peerumade,Idukki,Idukki,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1445,2020-06-03,2020-06-03,35,F,Peerumade Pambanar,Idukki,Idukki,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1446,2020-06-03,2020-06-03,25,F,Kattappana,Idukki,Idukki,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/collectoridukki/posts/952886951812037
+1447,2020-06-03,2020-06-03,54,M,Thekkethukavala,Kottayam,Kottayam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1167455633611063
+1448,2020-06-03,2020-06-03,40,F,Ettumanur,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
+1449,2020-06-03,2020-06-03,51,F,Arppukkara,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
+1450,2020-06-03,2020-06-03,30,F,Payippadu,Kottayam,Kottayam,Hospitalized,Travel,,,Doha,,Abroad,Abroad,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
+1451,2020-06-03,2020-06-03,56,F,Changanassery,Kottayam,Kottayam,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
+1452,2020-06-03,2020-06-03,37,M,Kurampanadam,Kottayam,Kottayam,Hospitalized,Contact,,1451,Kottayam,,Kerala,India,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
+1453,2020-06-03,2020-06-03,33,M,Perunna,Kottayam,Kottayam,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
+1454,2020-06-03,2020-06-03,29,F,Kuravilangad,Kottayam,Kottayam,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/diokottayam/posts/1168323123524314
+1455,2020-06-03,2020-06-03,Unspecified,M,Mararikkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
+1456,2020-06-03,2020-06-03,Unspecified,F,Mararikkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
+1457,2020-06-03,2020-06-03,Unspecified,F,Chengannur,Alappuzha,Alappuzha,Hospitalized,Travel,,,Pune,,Other States,India,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
+1458,2020-06-03,2020-06-03,Unspecified,F,Alappuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
+1459,2020-06-03,2020-06-03,Unspecified,F,Mavelikkara Thekkekkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
+1460,2020-06-03,2020-06-03,Unspecified,F,Cherthala,Alappuzha,Alappuzha,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
+1461,2020-06-03,2020-06-03,Unspecified,F,Alappuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661
+1462,2020-06-03,2020-06-03,42,M,Maniyoor,Kozhikode,Kozhikode,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
+1463,2020-06-03,2020-06-03,46,M,Maniyoor,Kozhikode,Kozhikode,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
+1464,2020-06-03,2020-06-03,42,M,Vadakara,Kozhikode,Kozhikode,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
+1465,2020-06-03,2020-06-03,42,M,Atholi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803249
+1466,2020-06-03,2020-06-03,39,M,Kuttyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Bahrain,,Abroad,Abroad,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803250
+1467,2020-06-03,2020-06-03,34,M,Kavilumpara,Kozhikode,Kozhikode,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803251
+1468,2020-06-03,2020-06-03,31,F,Elettil,Kozhikode,Kozhikode,Hospitalized,Contact,,,Kozhikode,,Kerala,India,,,,,,https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248
+1469,2020-06-03,2020-06-03,62,M,Koppam,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
+1470,2020-06-03,2020-06-03,35,M,Valiyapadam,Palakkad,Palakkad,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
+1471,2020-06-03,2020-06-03,47,M,Kappur,Palakkad,Palakkad,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
+1472,2020-06-03,2020-06-03,47,M,Puthunagaram,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
+1473,2020-06-03,2020-06-03,47,M,Elappulli,Palakkad,Palakkad,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486
+1474,2020-06-03,2020-06-03,31,M,Punalur,Kollam,Kollam,Hospitalized,Contact,,,Kollam,,Kerala,India,Kollam P72,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
+1475,2020-06-03,2020-06-03,40,F,Anchal,Kollam,Kollam,Hospitalized,Contact,,,Kollam,,Kerala,India,Kollam P72,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
+1476,2020-06-03,2020-06-03,40,F,Kadakkal,Kollam,Kollam,Hospitalized,Contact,,,Kollam,,Kerala,India,Kollam P74,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
+1477,2020-06-03,2020-06-03,36,M,Kadkakal Missionkunnu,Kollam,Kollam,Hospitalized,Contact,,,Kollam,,Kerala,India,Kollam P75,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
+1478,2020-06-03,2020-06-03,81,F,Pallimmukku,Kollam,Kollam,Hospitalized,Contact,,,Kollam,,Kerala,India,Kollam P76,,,,,https://www.facebook.com/prdkolllam/posts/2992903294158793
+1479,2020-06-03,2020-06-03,30,M,Ayyambilly,Ernakulam,Ernakulam,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
+1480,2020-06-03,2020-06-03,50,F,Chullikkal,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
+1481,2020-06-03,2020-06-03,28,F,Pallarimangalam,Ernakulam,Ernakulam,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
+1482,2020-06-03,2020-06-03,26,M,Panayikulam,Ernakulam,Ernakulam,Hospitalized,Travel,,,Riyadh,,Abroad,Abroad,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
+1483,2020-06-03,2020-06-03,Unspecified,F,Unspecified,Ernakulam,Ernakulam,Hospitalized,Contact,,,Ernakulam,,Kerala,India,,,,,,https://www.facebook.com/dioekm/posts/1602463933248920
+1484,2020-06-03,2020-06-03,54,M,Karikkodu,Thrissur,Thrissur,Hospitalized,Travel,,,Muscat,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
+1485,2020-06-03,2020-06-03,51,M,Ganeshamangalam,Thrissur,Thrissur,Hospitalized,Travel,,,Manama,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
+1486,2020-06-03,2020-06-03,36,M,Karuvannur,Thrissur,Thrissur,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
+1487,2020-06-03,2020-06-03,34,F,Kallur,Thrissur,Thrissur,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/prdthrissur/posts/3204225206311833
+1488,2020-06-03,2020-06-03,30,M,Kanhangad,Kasaragod,Kasaragod,Hospitalized,Travel,,,Manama,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
+1489,2020-06-03,2020-06-03,27,M,Cheruvathur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
+1490,2020-06-03,2020-06-03,34,F,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Contact,,,Kasaragod,,Kerala,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788
+1491,2020-06-03,2020-06-03,42,M,Dharmadom,Kannur,Kannur,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://kannurvarthakal.in/03/06/2020/35372/#.XtfId7wzbIU
+1492,2020-06-03,2020-06-03,35,M,Thalasserry,Kannur,Kannur,Hospitalized,Contact,,,Kannur,,Kerala,India,,,,,,https://kannurvarthakal.in/03/06/2020/35372/#.XtfId7wzbIU
+1493,2020-06-03,2020-06-03,27,F,Koodal,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/iprdpta/posts/181881853278872
+1494,2020-06-03,2020-06-03,27,M,Kumbazha,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/iprdpta/posts/181881853278872
+1495,2020-06-04,2020-06-04,35,M,Vettipram,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1496,2020-06-04,2020-06-04,32,F,Vettipram,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1497,2020-06-04,2020-06-04,5,M,Vettipram,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1498,2020-06-04,2020-06-04,64,M,Oathara,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1499,2020-06-04,2020-06-04,22,F,Parakkodu,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1500,2020-06-04,2020-06-04,58,F,Kozhimala,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1501,2020-06-04,2020-06-04,67,M,Kozhimala,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1502,2020-06-04,2020-06-04,25,M,Aramula,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1503,2020-06-04,2020-06-04,58,M,Arukalikkal,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1504,2020-06-04,2020-06-04,47,M,Nedumon,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1505,2020-06-04,2020-06-04,22,F,Thekkuthod,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1506,2020-06-04,2020-06-04,45,F,Ezhamkulam,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1507,2020-06-04,2020-06-04,58,F,Omallur,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1508,2020-06-04,2020-06-04,48,F,Thannithodu,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/108391950627863/posts/182234719910252/
+1509,2020-06-04,2020-06-04,50,M,Mangalpady,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1510,2020-06-04,2020-06-04,16,F,Mangalpady,Kasaragod,Kasaragod,Hospitalized,Travel,,1509,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1511,2020-06-04,2020-06-04,44,M,Padanna,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1512,2020-06-04,2020-06-04,42,M,Chengala,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1513,2020-06-04,2020-06-04,48,M,Valiyaparambu,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1514,2020-06-04,2020-06-04,21,F,Mangalpady,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1515,2020-06-04,2020-06-04,34,M,Neeleshwar,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1516,2020-06-04,2020-06-04,24,M,Pullur Periya,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1517,2020-06-04,2020-06-04,25,M,Ajanur,Kasaragod,Kasaragod,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1518,2020-06-04,2020-06-04,21,M,Chemnad,Kasaragod,Kasaragod,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1519,2020-06-04,2020-06-04,48,M,Uduma,Kasaragod,Kasaragod,Hospitalized,Travel,,,Sharjah,,Abroad,Abroad,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1520,2020-06-04,2020-06-04,25,M,Kasaragod,Kasaragod,Kasaragod,Hospitalized,Contact,,,Kasaragod,,Kerala,India,,,,,,https://www.facebook.com/100507158085788/posts/177726090363894/
+1521,2020-06-04,2020-06-04,24,M,Chavara Vadakkumbhagom,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1522,2020-06-04,2020-06-04,24,M,Chavara,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1523,2020-06-04,2020-06-04,34,F,Vellimon,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1524,2020-06-04,2020-06-04,27,F,Valakom,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1525,2020-06-04,2020-06-04,45,M,Kollam,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1526,2020-06-04,2020-06-04,36,M,Edakkaadu,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1527,2020-06-04,2020-06-04,65,M,Kavanad,Kollam,Kollam,Deceased,Contact,,,,,,,,,,,31-05-2020,https://epaper.deshabhimani.com/c/52511053
+1528,2020-06-04,2020-06-04,42,M,Kalluvathukkal,Kollam,Kollam,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1529,2020-06-04,2020-06-04,59,M,Chithara,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1530,2020-06-04,2020-06-04,22,M,Chithara,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1531,2020-06-04,2020-06-04,32,M,Karunagappally,Kollam,Kollam,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/462119120606972/posts/1620078314811041/
+1532,2020-06-04,2020-06-04,5,M,Mavoor,Kozhikode,Kozhikode,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1533,2020-06-04,2020-06-04,54,Unspecified,Pantheerankavu,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1534,2020-06-04,2020-06-04,23,Unspecified,Pantheerankavu,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1535,2020-06-04,2020-06-04,46,F,Koduvally,Kozhikode,Kozhikode,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1536,2020-06-04,2020-06-04,25,M,Madavoor,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1537,2020-06-04,2020-06-04,29,M,Kunnamangalam,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1538,2020-06-04,2020-06-04,51,M,Chekyadi,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1539,2020-06-04,2020-06-04,22,F,Feroke College,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1540,2020-06-04,2020-06-04,28,F,Maniyur,Kozhikode,Kozhikode,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1541,2020-06-04,2020-06-04,60,M,Valayam,Kozhikode,Kozhikode,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3
+1542,2020-06-04,2020-06-04,43,M,Nooranadu,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1543,2020-06-04,2020-06-04,Unspecified,M,Kandallur,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1544,2020-06-04,2020-06-04,Unspecified,F,Mavelikkara,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1545,2020-06-04,2020-06-04,Unspecified,M,Kayamkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1546,2020-06-04,2020-06-04,52,M,Mulakkuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1547,2020-06-04,2020-06-04,Unspecified,M,Edathva,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1548,2020-06-04,2020-06-04,Unspecified,M,Alappuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1549,2020-06-04,2020-06-04,53,M,Mulakkuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363
+1550,2020-06-04,2020-06-04,27,F,Edappal,Malappuram,Malappuram,Deceased,Travel,,,,,,,,,,,2020-05-02,https://www.facebook.com/110297390449180/posts/169445214534397/
+1551,2020-06-04,2020-06-04,35,M,Edappal,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/110297390449180/posts/169445214534397/
+1552,2020-06-04,2020-06-04,38,F,Edappal,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/110297390449180/posts/169445214534397/
+1553,2020-06-04,2020-06-04,51,M,Valanchery,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/110297390449180/posts/169445214534397/
+1554,2020-06-04,2020-06-04,73,M,Perumbadappu,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/110297390449180/posts/169445214534397/
+1555,2020-06-04,2020-06-04,44,M,Thazhekkadu,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/110297390449180/posts/169445214534397/
+1556,2020-06-04,2020-06-04,60,M,Tanur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/110297390449180/posts/169445214534397/
+1557,2020-06-04,2020-06-04,42,M,Vallappuzha,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/110297390449180/posts/169445214534397/
+1558,2020-06-04,2020-06-04,42,M,Vallappuzha,Palakkad,Palakkad,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/254481778529560/posts/605448776766190/
+1559,2020-06-04,2020-06-04,50,M,Olavakkod,Palakkad,Palakkad,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/254481778529560/posts/605448776766190/
+1560,2020-06-04,2020-06-04,9,F,Sreekrishnapuram,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/605448776766190/
+1561,2020-06-04,2020-06-04,52,M,Vallappuzha,Palakkad,Palakkad,Hospitalized,Travel,,,Chennai,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/605448776766190/
+1562,2020-06-04,2020-06-04,24,M,Koppam,Palakkad,Palakkad,Hospitalized,Travel,,,Rajasthan,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/605448776766190/
+1563,2020-06-04,2020-06-04,30,M,Ottappalam,Palakkad,Palakkad,Hospitalized,Travel,,,Trichy,,Other States,India,,,,,,https://www.facebook.com/254481778529560/posts/605448776766190/
+1564,2020-06-04,2020-06-04,73,F,Kadambazhippuram,Palakkad,Palakkad,Deceased,Travel,,,Chennai,,Other States,India,,,,,2020-06-02,https://www.facebook.com/254481778529560/posts/605448776766190/
+1565,2020-06-04,2020-06-04,29,M,Chapparappadavu,Kannur,Kannur,Hospitalized,Travel,,,Saudi Arabia,,Abroad,Abroad,,,,,,https://www.facebook.com/2142920802634835/posts/2587676331492611/
+1566,2020-06-04,2020-06-04,50,F,Chembilodu,Kannur,Kannur,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/2142920802634835/posts/2587676331492611/
+1567,2020-06-04,2020-06-04,46,F,Thana,Kannur,Kannur,Hospitalized,Travel,,,Moscow,,Abroad,Abroad,,,,,,https://www.facebook.com/2142920802634835/posts/2587676331492611/
+1568,2020-06-04,2020-06-04,27,M,Alakkod,Kannur,Kannur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/2142920802634835/posts/2587676331492611/
+1569,2020-06-04,2020-06-04,40,M,Alakkod,Kannur,Kannur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/2142920802634835/posts/2587676331492611/
+1570,2020-06-04,2020-06-04,40,M,Mattul,Kannur,Kannur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/2142920802634835/posts/2587676331492611/
+1571,2020-06-04,2020-06-04,40,F,Neendoor,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/889524668070829/posts/1169150196774940/
+1572,2020-06-04,2020-06-04,25,M,Lakkattur,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/889524668070829/posts/1169150196774940/
+1573,2020-06-04,2020-06-04,25,M,Kottayam,Kottayam,Kottayam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/889524668070829/posts/1169150196774940/
+1574,2020-06-04,2020-06-04,31,F,Parathod,Kottayam,Kottayam,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/889524668070829/posts/1169150196774940/
+1575,2020-06-04,2020-06-04,32,M,Thiruvathukkal,Kottayam,Kottayam,Hospitalized,Travel,,,Pune,,Other States,India,,,,,,https://www.facebook.com/889524668070829/posts/1169150196774940/
+1576,2020-06-04,2020-06-04,39,M,Muttathara,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52510557
+1577,2020-06-04,2020-06-04,24,M,Kulathur,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://epaper.deshabhimani.com/c/52510557
+1578,2020-06-04,2020-06-04,18,F,Pallithura,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Tajikisthan,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52510557
+1579,2020-06-04,2020-06-04,39,F,Vithura,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52510557
+1580,2020-06-04,2020-06-04,59,M,Alappuzha,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://epaper.deshabhimani.com/c/52510557
+1581,2020-06-04,2020-06-04,35,M,Mooriyad,Thrissur,Thrissur,Hospitalized,Travel,,,Russia,,Abroad,Abroad,,,,,,https://www.facebook.com/2483632581704436/posts/3206895059378181/
+1582,2020-06-04,2020-06-04,26,F,Iringalakkuda,Thrissur,Thrissur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/2483632581704436/posts/3206895059378181/
+1583,2020-06-04,2020-06-04,35,M,Valapad,Thrissur,Thrissur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/2483632581704436/posts/3206895059378181/
+1584,2020-06-04,2020-06-04,5,Unspecified,Palakkad,Thrissur,Thrissur,Hospitalized,Contact,,,Thrissur,,Kerala,India,,,,,,https://www.facebook.com/2483632581704436/posts/3206895059378181/
+1585,2020-06-04,2020-06-04,34,M,Maharashtra,Ernakulam,Ernakulam,Hospitalized,Travel,,,Unspecified,,Other States,India,,,,,,https://www.facebook.com/dcekm/posts/1019238315140658
+1586,2020-06-04,2020-06-04,41,M,Maharashtra,Ernakulam,Ernakulam,Hospitalized,Travel,,,Unspecified,,Other States,India,,,,,,https://www.facebook.com/dcekm/posts/1019238315140658
+1587,2020-06-04,2020-06-04,30,M,Edavaka,Wayanad,Wayanad,Hospitalized,Travel,,,Maldives,,Abroad,Abroad,,,,,,http://opennewser.com/home/get_news/26652
+1588,2020-06-04,2020-06-04,47,F,Gudalur,Wayanad,Wayanad,Hospitalized,Travel,,,Dubai,,Other States,India,,,,,,http://opennewser.com/home/get_news/26652
+1589,2020-06-05,2020-06-05,38,F,Karkkidamkunnu,Palakkad,Palakkad,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1590,2020-06-05,2020-06-05,5,F,Karkkidamkunnu,Palakkad,Palakkad,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1591,2020-06-05,2020-06-05,15,F,Karkkidamkunnu,Palakkad,Palakkad,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1592,2020-06-05,2020-06-05,25,M,Alanallur,Palakkad,Palakkad,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1593,2020-06-05,2020-06-05,55,Unspecified,Thiruvegappura,Palakkad,Palakkad,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1594,2020-06-05,2020-06-05,47,M,Parali,Palakkad,Palakkad,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1595,2020-06-05,2020-06-05,56,M,Kootanadu,Palakkad,Palakkad,Hospitalized,Travel,,,UAE,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1596,2020-06-05,2020-06-05,60,M,Punchappadam,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1597,2020-06-05,2020-06-05,1,F,Punchappadam,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1598,2020-06-05,2020-06-05,62,M,Sreekrishnapuram,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1599,2020-06-05,2020-06-05,26,F,Punchappadam,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1600,2020-06-05,2020-06-05,50,F,Punchappadam,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1601,2020-06-05,2020-06-05,45,F,Anchumoorthimangalam,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1602,2020-06-05,2020-06-05,43,M,Palappuram,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1603,2020-06-05,2020-06-05,34,F,Kollangod,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1604,2020-06-05,2020-06-05,25,F,Kanniyampuram,Palakkad,Palakkad,Hospitalized,Travel,,,Tamil Nadu,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1605,2020-06-05,2020-06-05,64,M,Pookkottukavu,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1606,2020-06-05,2020-06-05,39,M,Vandazhi,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1607,2020-06-05,2020-06-05,52,M,Kariyamutti,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1608,2020-06-05,2020-06-05,45,M,Thrikkateeri,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1609,2020-06-05,2020-06-05,30,M,Panamanna,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1610,2020-06-05,2020-06-05,39,M,Panamanna,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1611,2020-06-05,2020-06-05,23,M,Panamanna,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1612,2020-06-05,2020-06-05,27,M,Panamanna,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1613,2020-06-05,2020-06-05,31,M,Panamanna,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1614,2020-06-05,2020-06-05,34,M,Varod,Palakkad,Palakkad,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1615,2020-06-05,2020-06-05,23,F,Kizhakkethara,Palakkad,Palakkad,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1616,2020-06-05,2020-06-05,47,M,Kannadi,Palakkad,Palakkad,Hospitalized,Travel,,,Qatar,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1617,2020-06-05,2020-06-05,42,M,Varod,Palakkad,Palakkad,Hospitalized,Travel,,,Uttar Pradesh,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1618,2020-06-05,2020-06-05,26,M,Mannarkkad,Palakkad,Palakkad,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1619,2020-06-05,2020-06-05,39,M,Thathamangalam,Palakkad,Palakkad,Hospitalized,Travel,,,Andhra Pradhesh,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1620,2020-06-05,2020-06-05,48,M,Varod,Palakkad,Palakkad,Hospitalized,Travel,,,Andhra Pradhesh,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1621,2020-06-05,2020-06-05,22,M,Tamil Nadu,Palakkad,Palakkad,Discharged,Travel,Transferred to AP,,Andhra Pradhesh,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1622,2020-06-05,2020-06-05,27,M,Pirayiri,Palakkad,Palakkad,Hospitalized,Travel,,,Laksha Dweep,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1623,2020-06-05,2020-06-05,21,F,Kanniyampuram,Palakkad,Palakkad,Hospitalized,Travel,,,Karnataka,,Other States,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1624,2020-06-05,2020-06-05,40,M,Walayar,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1625,2020-06-05,2020-06-05,46,F,Palakkad,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1626,2020-06-05,2020-06-05,35,M,Palakkad,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1627,2020-06-05,2020-06-05,48,M,Palakkad,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1628,2020-06-05,2020-06-05,41,M,Palakkad,Palakkad,Palakkad,Hospitalized,Contact,,,Palakkad,,Kerala,India,,,,,,https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849
+1629,2020-06-05,2020-06-05,30,M,Aanakkayam,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1630,2020-06-05,2020-06-05,48,F,Manjeri,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1631,2020-06-05,2020-06-05,27,M,Aanakkayam,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1632,2020-06-05,2020-06-05,41,M,Kuruvappangu,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1633,2020-06-05,2020-06-05,36,M,Kalpakancheri,Malappuram,Malappuram,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1634,2020-06-05,2020-06-05,44,M,Omallur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1635,2020-06-05,2020-06-05,29,M,Angadippuram,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1636,2020-06-05,2020-06-05,33,F,Porur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1637,2020-06-05,2020-06-05,60,M,Thalakkad,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1638,2020-06-05,2020-06-05,33,M,Thalakkad,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1639,2020-06-05,2020-06-05,57,M,Vettathur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1640,2020-06-05,2020-06-05,62,M,Ponnani,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1641,2020-06-05,2020-06-05,66,M,Maranchery,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1642,2020-06-05,2020-06-05,33,M,Manjeri,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1643,2020-06-05,2020-06-05,32,M,Polachappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1644,2020-06-05,2020-06-05,23,M,Kalady,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1645,2020-06-05,2020-06-05,57,M,Parappanangadi,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1646,2020-06-05,2020-06-05,31,M,Thavanur,Malappuram,Malappuram,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/informationofficemalappuram/posts/169739731171612
+1647,2020-06-05,2020-06-05,24,M,Cherukol,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1648,2020-06-05,2020-06-05,63,M,Vettipram East,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1649,2020-06-05,2020-06-05,30,F,Ranni,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1650,2020-06-05,2020-06-05,33,F,Ranni,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1651,2020-06-05,2020-06-05,27,F,Aanikkad,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1652,2020-06-05,2020-06-05,38,M,Mundukottakkal,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1653,2020-06-05,2020-06-05,29,M,Kodumon,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1654,2020-06-05,2020-06-05,37,F,Kottangal,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1655,2020-06-05,2020-06-05,49,M,Vadasserikara,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1656,2020-06-05,2020-06-05,26,F,Konni,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1657,2020-06-05,2020-06-05,31,M,Kadambanadu,Pathanamthitta,Pathanamthitta,Hospitalized,Travel,,,,,,,,,,,,https://www.facebook.com/iprdpta/posts/182533476547043
+1658,2020-06-05,2020-06-05,46,F,Nedumbasseri,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1659,2020-06-05,2020-06-05,31,F,Thiruvananthapuram,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1660,2020-06-05,2020-06-05,47,F,Pathanamthitta,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1661,2020-06-05,2020-06-05,42,F,Eloor,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1662,2020-06-05,2020-06-05,42,F,Aluva,Ernakulam,Ernakulam,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1663,2020-06-05,2020-06-05,38,M,Exhikkara,Ernakulam,Ernakulam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1664,2020-06-05,2020-06-05,53,M,Muvattupuzha,Ernakulam,Ernakulam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1665,2020-06-05,2020-06-05,50,M,Perumbavoor,Ernakulam,Ernakulam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1666,2020-06-05,2020-06-05,59,M,Mulamthuruthi,Ernakulam,Ernakulam,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1667,2020-06-05,2020-06-05,63,M,Nedumbasseri,Ernakulam,Ernakulam,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1668,2020-06-05,2020-06-05,50,M,Varavoor,Thrissur,Thrissur,Hospitalized,Travel,,,Abu Dhabi,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1669,2020-06-05,2020-06-05,32,M,Madakkathara,Thrissur,Thrissur,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1670,2020-06-05,2020-06-05,44,M,Chalakkudi,Thrissur,Thrissur,Hospitalized,Travel,,,Kuwait,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1671,2020-06-05,2020-06-05,39,M,Mala,Thrissur,Thrissur,Hospitalized,Travel,,,Italy,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1672,2020-06-05,2020-06-05,54,M,Thannyam,Thrissur,Thrissur,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1673,2020-06-05,2020-06-05,14,M,Poothol,Thrissur,Thrissur,Hospitalized,Contact,,1386,Thrissur,1386.0,Kerala,India,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1674,2020-06-05,2020-06-05,51,M,Oorakam,Thrissur,Thrissur,Hospitalized,Contact,,,Thrissur,,Kerala,India,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1675,2020-06-05,2020-06-05,27,M,Thrissur,Thrissur,Thrissur,Hospitalized,Contact,,,Thrissur,,Kerala,India,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1676,2020-06-05,2020-06-05,24,F,Kallambalam,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/collectortvpm/posts/2564468050535387
+1677,2020-06-05,2020-06-05,20,M,Kallambalam Thottakkad,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Tajikistan,,Abroad,Abroad,,,,,,https://www.facebook.com/collectortvpm/posts/2564468050535387
+1678,2020-06-05,2020-06-05,20,M,Kallambalam,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Tajikistan,,Abroad,Abroad,,,,,,https://www.facebook.com/collectortvpm/posts/2564468050535387
+1679,2020-06-05,2020-06-05,18,M,Kallambalam Puthusserimukk,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Tajikistan,,Abroad,Abroad,,,,,,https://www.facebook.com/collectortvpm/posts/2564468050535387
+1680,2020-06-05,2020-06-05,19,M,Kanjiramkulam,Thiruvananthapuram,Thiruvananthapuram,Hospitalized,Travel,,,Tajikistan,,Abroad,Abroad,,,,,,https://www.facebook.com/collectortvpm/posts/2564468050535387
+1681,2020-06-05,2020-06-05,Unspecified,M,Ambalapuzha,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1682,2020-06-05,2020-06-05,Unspecified,M,Chambakkulam,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1683,2020-06-05,2020-06-05,58,M,Karuvata,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1684,2020-06-05,2020-06-05,Unspecified,M,Thaikattusseri,Alappuzha,Alappuzha,Hospitalized,Travel,,,Mumbai,,Other States,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1685,2020-06-05,2020-06-05,Unspecified,M,Cheruthana,Alappuzha,Alappuzha,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1686,2020-06-05,2020-06-05,41,M,Koduvally,Kozhikode,Kozhikode,Hospitalized,Travel,,,Mumbai,,Other States,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=2985000471614030&id=1135018129945616
+1687,2020-06-05,2020-06-05,26,M,Mavoor,Kozhikode,Kozhikode,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=2985000471614030&id=1135018129945616
+1688,2020-06-05,2020-06-05,42,M,Atholi,Kozhikode,Kozhikode,Hospitalized,Travel,,,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/permalink.php?story_fbid=2985000471614030&id=1135018129945616
+1689,2020-06-05,2020-06-05,84,M,Kottuli,Kozhikode,Kozhikode,Hospitalized,Contact,,,,,,,,,,,,https://www.facebook.com/permalink.php?story_fbid=2985000471614030&id=1135018129945616
+1690,2020-06-05,2020-06-05,25,F,Upputhara,Idukki,Idukki,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042
+1691,2020-06-05,2020-06-05,24,M,Thodupuzha,Idukki,Idukki,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042
+1692,2020-06-05,2020-06-05,43,M,Chakkupallam,Idukki,Idukki,Hospitalized,Travel,,,Delhi,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042
+1693,2020-06-05,2020-06-05,31,F,Ummannur,Kollam,Kollam,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1694,2020-06-05,2020-06-05,19,F,Punalur,Kollam,Kollam,Hospitalized,Travel,,,Tajiksithan,,Abroad,Abroad,,,,,,https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html
+1695,2020-06-05,2020-06-05,25,M,Anchukunnu,Wayanad,Wayanad,Hospitalized,Travel,,,Karnataka,,Other States,India,,,,,,https://www.facebook.com/278429812621016/posts/899263183871006/
+1696,2020-06-05,2020-06-05,45,M,Karakkamala,Wayanad,Wayanad,Hospitalized,Travel,,,Karnataka,,Other States,India,,,,,,https://www.facebook.com/278429812621016/posts/899263183871006/
+1697,2020-06-05,2020-06-05,Unspecified,M,Kalpeta,Wayanad,Wayanad,Hospitalized,Travel,,732,Dubai,,Abroad,Abroad,,,,,,https://www.facebook.com/278429812621016/posts/899263183871006/
+1698,2020-06-05,2020-06-05,24,M,Athirumpuzha,Kottayam,Kottayam,Hospitalized,Travel,,,Mumbai,,Other States,India,,,,,,https://www.facebook.com/diokottayam/posts/1170023503354276
+1699,2020-06-05,2020-06-05,39,M,Padanna,Kasaragod,Kasaragod,Hospitalized,Travel,,,Maharashtra,,Other States,India,,,,,,https://www.facebook.com/permalink.php?story_fbid=178006537002516&id=100507158085788

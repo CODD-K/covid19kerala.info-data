@@ -1,3 +1,7 @@
+### 3.0.0 
+* Snapshot till 2020-06-05
+* Schema changed with an addition of a field.
+
 ### 2.5.0 
 * Snapshot till 2020-06-03
 * snapshot.txt file with snapshot identifier
