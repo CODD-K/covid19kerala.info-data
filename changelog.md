@@ -1,3 +1,6 @@
+### 3.1.0 
+* Snapshot till 2020-06-15
+
 ### 3.0.0 
 * Snapshot till 2020-06-05
 * Schema changed with an addition of a field.
