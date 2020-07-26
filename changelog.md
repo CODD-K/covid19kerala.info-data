@@ -1,3 +1,6 @@
+### 4.1.0 
+* Snapshot till 2020-06-27
+
 ### 4.0.0 
 * Snapshot till 2020-06-20
 * Schema changes, import and contact patiensts in sum by day.
