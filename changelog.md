@@ -1,3 +1,8 @@
+### 4.4.0 
+* Snapshot till 2020-08-20
+* `bytes` for data resources within data package
+* README for csv data folder wit size
+
 ### 4.3.0 
 * Snapshot till 2020-07-11
 
